@@ -3,6 +3,7 @@ layout: page
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
+published: true
 ---
 
 {% include base_path %}
