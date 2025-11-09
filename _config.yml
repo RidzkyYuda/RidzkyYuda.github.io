@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Dr. rer. medic Ridzky Yuda / Site Title"
+title                    : "Dr. rer. medic. Ridzky Yuda / Research Profile"
 title_separator          : "-"
 name                     : &name "Dr. rer. medic Ridzky Yuda"
 description              : &description "Biosketch Profile"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. rer. medic. Ridzky Yuda"
+  name             : "Ridzky Yuda"
   pronouns         : # example: "she/her"  
   bio              : "Stem cell biologist studying hematopoietic stem cell inflammation and aging"
   location         : "Baltimore, MD, US"
