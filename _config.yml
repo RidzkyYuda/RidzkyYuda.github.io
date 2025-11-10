@@ -24,13 +24,13 @@ repository               : "RidzkyYuda/RidzkyYuda.github.io"
 author:
   # Biographic information
   avatar           : "profilephoto.png"
-  name             : "Ridzky Yuda"
-  pronouns         : # example: "she/her"  
+  name             : "Dr. rer. medic. Ridzky Yuda"
+  pronouns         : "he/him"  
   bio              : "Stem cell biologist studying hematopoietic stem cell inflammation and aging"
   location         : "Baltimore, MD, US"
   employer         : "Johns Hopkins University"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : "https://RidzkyYuda.github.io"
+  email            : "ryuda1@jhmi.edu" 
 
   # Academic websites
   academia         : # URL
@@ -48,13 +48,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/RidzkyYuda"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -82,7 +82,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Book Chapter'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
