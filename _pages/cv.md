@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-published: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+  - /resume
 ---
 
 {% include base_path %}
