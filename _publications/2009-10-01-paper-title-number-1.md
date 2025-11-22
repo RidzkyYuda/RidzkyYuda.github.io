@@ -2,11 +2,11 @@
 title: "Long-term culture-expanded alveolar macrophages restore their full epigenetic identity after transfer in vivo"
 collection: publications
 category: published paper
-permalink: /publication/2022-02-24-Long-term culture-expanded alveolar macrophages restore their full epigenetic identity after transfer in vivo
+permalink: /publication/exAM-identity-2022
 excerpt: 'This paper tells us about the unlimited self-renewal capacity of tissue resident alveolar macrophages cultured in a dish in the presence of granulocyte-macrophage colony stimulating factor (GM-CSF) without losing their core molecular and cellular identity, which could be re-transplanted into the lung with indifferentiated epigenome profile, serving as potential macrophage-based immunotherapies'
 date: 2022-02-24
 venue: 'Nature Immunology'
-paperurl: 'https://www.nature.com/articles/s41590-022-01146-w)'
+paperurl: 'https://www.nature.com/articles/s41590-022-01146-w'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 Alveolar macrophages (AMs) are lung tissue-resident macrophages that can be expanded in culture, but it is unknown to what extent culture affects their in vivo identity. Here we show that mouse long-term ex vivo expanded AMs (exAMs) maintained a core AM gene expression program, but showed culture adaptations related to adhesion, metabolism and proliferation. Upon transplantation into the lung, exAMs reacquired full transcriptional and epigenetic AM identity, even after several months in culture and could self-maintain long-term in the alveolar niche. Changes in open chromatin regions observed in culture were fully reversible in transplanted exAMs and resulted in a gene expression profile indistinguishable from resident AMs. Our results indicate that long-term proliferation of AMs in culture did not compromise cellular identity in vivo. The robustness of exAM identity provides new opportunities for mechanistic analysis and highlights the therapeutic potential of exAMs.
