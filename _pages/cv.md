@@ -36,7 +36,7 @@ Scientific Appointment
 
 Publications
 ======
-* **Ridzky A. A. Yuda**, Habin Bea, Valerie Kellett, Jungwoo Kim, Fan Yang, Haruna B. Choijilsuren, Yejie Park, Yaojie Fu, Zewen Ha, Juhye Choi, Zhaoli Sun, Bin Gao, Sangmoo Jeong, Linda M. S. Resar, Moonjung Jung., "Chronic alcohol consumption causes inflammaging and epigenetic reactivation of transposable elements in hematopoietic stem progenitor cells"., **In Submission to Blood**., 2025
+* **Ridzky A. A. Yuda**, Habin Bea, Valerie Kellett, Jungwoo Kim, Fan Yang, Haruna B. Choijilsuren, Yejie Park, Yaojie Fu, Zewen Ha, Juhye Choi, Zhaoli Sun, Bin Gao, Sangmoo Jeong, Linda M. S. Resar, Moonjung Jung., "Chronic alcohol consumption causes inflammaging and epigenetic reactivation of transposable elements in hematopoietic stem progenitor cells"., **Manuscript In Submission to Blood**., 2025
 
 * **Ridzky Anis Advent Yuda**, Valerie Kellet, Fan Yang, Moonjung Jung., Chronic alcohol consumption epigenetically reactivates transposable elements in aged hematopoietic stem cells., **Abstract Accepted in Blood**., 2025
 
