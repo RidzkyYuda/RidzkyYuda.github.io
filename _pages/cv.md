@@ -37,12 +37,30 @@ Publications
 * Sethuraman Subramanian, Clara Jana-Lui Busch, Kaaweh Molawi, Laufey Geirsdottir, Julien Maurizio, Stephanie Vargas Aguilar, Hassiba Belahbib, Gregory Gimenez, **Ridzky Anis Advent Yuda**, Michaela Burkon, Jérémy Favret, Sara Gholamhosseinian Najjar, Bérengère de Laval, Prashanth Kumar Kandalla, Sandrine Sarrazin, Lena Alexopoulou, Michael H. Sieweke., "Long-term culture-expanded alveolar macrophages restore their full epigenetic identity after transfer in vivo." **Nature Immunology** 23. 458-468(2022)
 
 
+**Link for each publication is in the below hyperlinks**
 
-  #<ul>{% for post in site.publications reversed %}
-   # {% include archive-single-cv.html %}
-  #{% endfor %}</ul>
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
+Funding, Awards, and other Achievements
+======
+* Abstract Achievement Award from American Society of Hematology (ASH) for abstract with title **Chronic alcohol consumption epigenetically reactivates transposable elements in aged hematopoietic stem cells**. December 2025.
   
+* 2nd Best Poster Award at the 2nd Annual Maryland Stem Cell Research Symposium. October 2025
+  
+* Maryland Stem Cell Research Fund Postdoctoral Fellowship Award ($ 130.000) as PI, Epigenetic Regulation Underlying Chronic Alcohol-Induced Double-Stranded RNA Accumulation and Inflammation in Hematopoietic Stem Progenitor Cells (2024-2026)
+
+* Training Award Grant from Dresden International School for Biomedicine and Bioengineering (€ 1500)
+
+* Gold medal for Biology, National Olympiad for Mathematics and Natural Sciences for Undergraduate Students (2012). Ministry of Higher Education Indonesia
+
+* Gold medal for Biology, National Olympiad for Mathematics and Natural Sciences for Undergraduate Students (2011). Ministry of Higher Education Indonesia
+
+* First Prize for Biology, National Olympiad for Mathematics and Natural Sciences for Undergraduate Students (2011). Ministry of Education Yogyakarta Province.
+
+* Bronze medal for Biology at the National Selection Level for International Biology Olympiad (2008). Ministry of Education Indonesia
+
 Skills
 ======
 * Cellular and molecular biology
