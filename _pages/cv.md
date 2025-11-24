@@ -65,7 +65,7 @@ Funding, Awards, and other Achievements
 
 Profesional service
 ======
-* Assistant peer-reviewer for a manuscript submitted in **Blood**
+* Assistant peer-reviewer for a manuscript submitted to **Blood**
 
 Skills
 ======
