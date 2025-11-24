@@ -3,6 +3,7 @@ layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
+show_talks: false
 redirect_from:
   - /resume
 ---
@@ -45,11 +46,11 @@ Publications
   
 Funding, Awards, and other Achievements
 ======
-* **Abstract Achievement Award** **from American Society of Hematology (ASH)** for abstract with title **Chronic alcohol consumption epigenetically reactivates transposable elements in aged hematopoietic stem cells**. December 2025.
+* **Abstract Achievement Award** **from American Society of Hematology (ASH)** for abstract with title Chronic alcohol consumption epigenetically reactivates transposable elements in aged hematopoietic stem cells. December 2025.
   
 * **2nd Best Poster Award** at the 2nd Annual Maryland Stem Cell Research Symposium. October 2025
   
-* Maryland Stem Cell Research Fund Postdoctoral Fellowship Award ($ 130.000) as principle of investigator (PI), Epigenetic Regulation Underlying Chronic Alcohol-Induced Double-Stranded RNA Accumulation and Inflammation in Hematopoietic Stem Progenitor Cells (2024-2026)
+* **Maryland Stem Cell Research Fund Postdoctoral Fellowship Award** ($ 130.000) as principle of investigator (PI), Epigenetic Regulation Underlying Chronic Alcohol-Induced Double-Stranded RNA Accumulation and Inflammation in Hematopoietic Stem Progenitor Cells (2024-2026)
 
 * **Training Award Grant** from Dresden International School for Biomedicine and Bioengineering (€ 1500)
 
@@ -86,9 +87,9 @@ Skills
   * Stereotactic injection of lentivirus into mouse brain.
   * Mouse surgery. 
  
-* Omics Data Analysis
-  * Transcriptomics: Bulk and single-cell RNA-seq
-  * EpigenomicsL: Bulk and single-cell ATAC-seq
+* Bioinformatics of Omics Data
+  * Transcriptomics: Bulk and single-cell RNA-seq: DESeq2, Seurat, CellRanger, scTE, STAR and Bowtie genome alignment
+  * EpigenomicsL: Bulk and single-cell ATAC-seq: ArchR
     
 * Programming skills
   * Shell scripting in LINUX/UNIX environment
@@ -109,9 +110,9 @@ Skills
 
 Talks
 ======
-  #<ul>{% for post in site.talks reversed %}
-   # {% include archive-single-talk-cv.html  %}
-  #{% endfor %}</ul>
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
   
 #Teaching
 #======
