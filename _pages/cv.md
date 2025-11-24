@@ -17,7 +17,7 @@ Contact
 * Work Address         : 720 Rutland Ave. Baltimore, Maryland, 21210, USA
 * Contact information  : ryuda1@jhmi.edu
 
-Summary of Research Interest
+Research Interest
 =====
 
 My research focuses on understanding how cellular and molecular mechanisms, including transcriptional and epigenetic regulation, govern hematopoietic stem cell (HSC) fate decisions and macrophage self-renewal in the context of inflammation and aging. I combine in vivo mouse models, molecular biology, and bulk and single-cell omics to investigate how environmental exposures and aging influence stem cell lineage commitment. I am particularly interested in how epigenetic regulators and transposable elements shape hematopoiesis via immune signaling. My long-term goal is to define and test candidate pathways using high-throughput gain- and loss-of-function approaches to rejuvenate aging stem cell and macrophage function.
@@ -95,7 +95,9 @@ Profesional service
 
 Trainings and Courses
 =====
-* Bioinformatics Training RNA-seq data analysis by ECSeq GmbH, Germany (2022)
+* Single-cell Transcriptomics Data Analysis. Joint training between Sydney Kimmel Comprehensive Cancer Center at Johns Hopkins University and Cornel University Genome Center (2023)
+* Writing a Winning NIH Grant Proposal by 
+* Bioinformatics Training RNA-seq data analysis by ECSeq GmbH, Germany (2022).
 * Autumn School for Microbiome Analysis using next generation seqeuncing by Germany
   
 Skills
@@ -130,8 +132,8 @@ Skills
   * Wide-field fluorescence microscopy imaging with optical sectioning in Zeiss Axio Observer. 
     
 * Bioinformatics of Omics Data
-  * Transcriptomics: Bulk and single-cell RNA-seq: DESeq2, Seurat, CellRanger, scTE, STAR and Bowtie genome alignment
-  * EpigenomicsL: Bulk and single-cell ATAC-seq: ArchR
+  * Transcriptomics: Bulk and single-cell RNA-seq: DESeq2, Seurat, CellRanger, TEtranscript, FeatureCounts, scTE, STAR and Bowtie genome alignment
+  * Epigenomics: Bulk and single-cell ATAC-seq: ArchR, MACS2, ChiPseeker
     
 * Programming skills
   * Shell scripting in LINUX/UNIX environment
@@ -169,4 +171,4 @@ Leadership
 ======
 * PI of MSCRF-funded research project to study HSC epigenome in response to alcohol and aging. Activities involved: Research project administration, design, conceptualization, investigation, data curation, analysis, visualization, and reporting to funding agency and manuscript preparation. 
 * Head of Student Executive Organization of the Faculty of Science and Technology, Airlangga University, (2012): Activities involved: Leadership and administration of the organization to representing students' interests and aims for extracurricular activities
-* Head of Microbiology Study Club, Biology Student Association, Faculty of Science and Technology, Airlangga University, (2011). Activities involved: 
+* Head of Microbiology Study Club, Biology Student Association, Faculty of Science and Technology, Airlangga University, (2011). Activities involved: Leadership and management of microbiology study activities including workshop and tutorials.
