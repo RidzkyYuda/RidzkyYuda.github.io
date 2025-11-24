@@ -14,12 +14,12 @@ redirect_from:
 Education
 ======
 * Ph.D in Regenerative Biology, Medizinische Fakultät Carl Gustav Carus, Technische Universität Dresden, Germany
-  Thesis: Zellzyklussaktivierung verjungt Alverolarmakrophagen im alten Mäuse.
-  Doktorvater: Prof. Michael Sieweke, Ph.D.
+  Thesis: Zellzyklusaktivierung induziert Verjüngung der Gensignaturen in alten Alveolarmakrophagen.
+  Advisor (Doktorvater): Prof. Michael Sieweke, Ph.D.
   Co-advisor: Prof. Dr. Federico Calegari and Prof. Dr. med Triantafyllos Chavakis.
   
 * M.S. in Regenerative Biology and Medicine, Center for Molecular and Cellular Bioengineering (CMCB), Technische Universität Dresden, Germany
-  Thesis:
+  Thesis: Oligodendrocytes-preferring adeno-associated virus for studying Sox2-mediated reprogramming in oligodendrocytes progenitor cells (OPCs)
   Advisor: Prof. Dr. Federico Calegari & Prof. Jared Sterneckert, Ph.D.
   
 * B.S. in Biology, Faculty of Science and Technology, Airlangga University, Indonesia
@@ -138,5 +138,6 @@ Talks
   
 Leadership
 ======
-* Head of Student Executive Organization of the Faculty of Science and Technology, Airlangga University, (2012)
-* Head of Microbiology Study Club, Biology Student Association, Faculty of Science and Technology, Airlangga University, (2011)
+* PI of a MSCRF-funded research project to study HSC epigenome in response to alcohol and aging. Activities involved: Research project administration, design, conceptualization, investigation, data curation, analysis, visualization, and reporting to funding agency and manuscript preparation. 
+* Head of Student Executive Organization of the Faculty of Science and Technology, Airlangga University, (2012): Activities involved: Leadership and administration of the organization to representing students' interests and aims for extracurricular activities
+* Head of Microbiology Study Club, Biology Student Association, Faculty of Science and Technology, Airlangga University, (2011). Activities involved: 
