@@ -55,13 +55,13 @@ Publications
   
 Funding, Awards, and other Achievements
 ======
-* **Abstract Achievement Award** ($500) from **American Society of Hematology (ASH)** for abstract with title Chronic alcohol consumption epigenetically reactivates transposable elements in aged hematopoietic stem cells. December 2025.
+* **Abstract Achievement Award** from **American Society of Hematology (ASH)** for abstract with title Chronic alcohol consumption epigenetically reactivates transposable elements in aged hematopoietic stem cells. December 2025.
   
-* **2nd Best Poster Award** ($200) at the 2nd Annual Maryland Stem Cell Research Symposium. October 2025
+* **2nd Best Poster Award** at the 2nd Annual Maryland Stem Cell Research Symposium. October 2025
   
-* **Maryland Stem Cell Research Fund (MSCRF) Postdoctoral Fellowship Award** ($130.000) as principle of investigator (PI), Epigenetic Regulation Underlying Chronic Alcohol-Induced Double-Stranded RNA Accumulation and Inflammation in Hematopoietic Stem Progenitor Cells (2024-2026)
+* **Maryland Stem Cell Research Fund (MSCRF) Postdoctoral Fellowship Award** (**$130.000**) as principle of investigator (PI), Epigenetic Regulation Underlying Chronic Alcohol-Induced Double-Stranded RNA Accumulation and Inflammation in Hematopoietic Stem Progenitor Cells (2024-2026)
 
-* **Training Award Grant** (€1500) from Dresden International School for Biomedicine and Bioengineering. October 2021
+* **Training Award Grant** from Dresden International School for Biomedicine and Bioengineering. October 2021
 
 * **Gold medal** for Biology, National Olympiad for Mathematics and Natural Sciences for Undergraduate Students (2012). Ministry of Higher Education, Indonesia
 
