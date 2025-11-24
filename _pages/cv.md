@@ -14,15 +14,24 @@ redirect_from:
 Education
 ======
 * Ph.D in Regenerative Biology, Medizinische Fakultät Carl Gustav Carus, Technische Universität Dresden, Germany
+  Thesis: Zellzyklussaktivierung verjungt Alverolarmakrophagen im alten Mäuse.
+  Doktorvater: Prof. Michael Sieweke, Ph.D.
+  Co-advisor: Prof. Dr. Federico Calegari and Prof. Dr. med Triantafyllos Chavakis.
+  
 * M.S. in Regenerative Biology and Medicine, Center for Molecular and Cellular Bioengineering (CMCB), Technische Universität Dresden, Germany
+  Thesis:
+  Advisor: Prof. Dr. Federico Calegari & Prof. Jared Sterneckert, Ph.D.
+  
 * B.S. in Biology, Faculty of Science and Technology, Airlangga University, Indonesia
+  Thesis: Isolasi Bakteri Selulolitik Termofilik dari Sumber Air Panas Gunung Kelud dan Karakterisasi Crude Enzim Selulase
+  Advisor: Prof. Dr. Ni'matuzahroh and Prof. Dr. Sri Pudjiastuti
 
 Scientific Appointment
 ======
-* Postdoctoral Fellow, Division of Hematology, Johns Hopkins University School of Medicine, USA (2023-present)
-* Wissenschaftlicher Mitarbeiter (Research Associate), Technische Universität Dresden, Germany (2018-2023)
-* Studentische Hilfskraft (Student technical assistant) at the Electron Microscopy Facility, CMCB, Technische Universität Dresden, Germany (2017-2018)
-* Summer School Student in Cancer Research, Deutsches Krebsforschungszentrum (German Cancer Research Center, DKFZ), Germany (2017)
+* Postdoctoral Fellow, Division of Hematology, Johns Hopkins University School of Medicine, USA (2023-present).
+* Research Associate (_Wissenschaftlicher Mitarbeiter_), Technische Universität Dresden, Germany (2018-2023)
+* Student technical assistant (_Studentische Hilfskraft_) at the Electron Microscopy Facility, Center for Molecular and Cellular Bioengineering, Technische Universität Dresden, Germany (2017-2018)
+* Summer School Student in Cancer Research, German Cancer Research Center (Deutsches Krebsforschungszentrum, DKFZ), Germany (2017)
 * Molecular Biology Lab Technician, Hospital for Infectious Diseases, Airlangga University, (2014-2016)
 
 Publications
@@ -32,7 +41,6 @@ Publications
 * **Ridzky Anis Advent Yuda**, Valerie Kellet, Fan Yang, Moonjung Jung., Chronic alcohol consumption epigenetically reactivates transposable elements in aged hematopoietic stem cells., **Abstract Accepted in Blood**., 2025
 
 * **Ridzky Anis Advent Yuda**, Valerie Kellet, Haruna B. Choijilsuren, Zewen Ha, Fan Yang, Moonjung Jung. Combinatorial Effect of Chronic Alcohol Drinking and Age Perpetuates Myeloid-Biased Hematopoiesis Via Hematopoietic Stem Cell Senescence. **Blood** Volume 144 Supplement 1 . Page 2672
-
 
 * Busch, C.JL., Subramanian, S., Linares, J., Favret, J., **Yuda, R.A.A**., Sieweke, M.H. "Isolation, Ex Vivo Expansion, and Lentiviral Transduction of Alveolar Macrophages. In: Mass, E. (eds) Tissue-Resident Macrophages." **Methods in Molecular Biology**, vol 2713. 231-251(2024).
 
