@@ -59,9 +59,9 @@ Funding, Awards, and other Achievements
   
 * **2nd Best Poster Award** at the 2nd Annual Maryland Stem Cell Research Symposium. October 2025
   
-* **Maryland Stem Cell Research Fund (MSCRF) Postdoctoral Fellowship Award** ($ 130.000) as principle of investigator (PI), Epigenetic Regulation Underlying Chronic Alcohol-Induced Double-Stranded RNA Accumulation and Inflammation in Hematopoietic Stem Progenitor Cells (2024-2026)
+* **Maryland Stem Cell Research Fund (MSCRF) Postdoctoral Fellowship Award** ($130.000) as principle of investigator (PI), Epigenetic Regulation Underlying Chronic Alcohol-Induced Double-Stranded RNA Accumulation and Inflammation in Hematopoietic Stem Progenitor Cells (2024-2026)
 
-* **Training Award Grant** from Dresden International School for Biomedicine and Bioengineering (€ 1500)
+* **Training Award Grant** (€1500) from Dresden International School for Biomedicine and Bioengineering. October 2021
 
 * **Gold medal** for Biology, National Olympiad for Mathematics and Natural Sciences for Undergraduate Students (2012). Ministry of Higher Education, Indonesia
 
@@ -73,7 +73,7 @@ Funding, Awards, and other Achievements
 
 Profesional service
 ======
-* Assistant peer-reviewer for a manuscript submitted to **Blood**
+* Peer-reviewer for a manuscript submitted to **Blood**
 
 Skills
 ======
@@ -138,6 +138,6 @@ Talks
   
 Leadership
 ======
-* PI of a MSCRF-funded research project to study HSC epigenome in response to alcohol and aging. Activities involved: Research project administration, design, conceptualization, investigation, data curation, analysis, visualization, and reporting to funding agency and manuscript preparation. 
+* PI of MSCRF-funded research project to study HSC epigenome in response to alcohol and aging. Activities involved: Research project administration, design, conceptualization, investigation, data curation, analysis, visualization, and reporting to funding agency and manuscript preparation. 
 * Head of Student Executive Organization of the Faculty of Science and Technology, Airlangga University, (2012): Activities involved: Leadership and administration of the organization to representing students' interests and aims for extracurricular activities
 * Head of Microbiology Study Club, Biology Student Association, Faculty of Science and Technology, Airlangga University, (2011). Activities involved: 
