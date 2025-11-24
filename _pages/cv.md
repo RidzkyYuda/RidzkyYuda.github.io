@@ -25,15 +25,22 @@ Scientific Appointment
 
 Publications
 ======
-* **Ridzky A. A. Yuda**, Habin Bea, Valerie Kellett, Jungwoo Kim, Fan Yang, Haruna B. Choijilsuren, Yejie Park, Yaojie Fu, Zewen Ha, Juhye Choi, Zhaoli Sun, Bin Gao, Sangmoo Jeong, Linda M. S. Resar, Moonjung Jung., Chronic alcohol consumption causes inflammaging and epigenetic reactivation of transposable elements in hematopoietic stem progenitor cells., _In Submission in Blood_., 2025
+* **Ridzky A. A. Yuda**, Habin Bea, Valerie Kellett, Jungwoo Kim, Fan Yang, Haruna B. Choijilsuren, Yejie Park, Yaojie Fu, Zewen Ha, Juhye Choi, Zhaoli Sun, Bin Gao, Sangmoo Jeong, Linda M. S. Resar, Moonjung Jung., "Chronic alcohol consumption causes inflammaging and epigenetic reactivation of transposable elements in hematopoietic stem progenitor cells"., **In Submission to Blood**., 2025
 
-* Busch, C.JL., Subramanian, S., Linares, J., Favret, J., **Yuda, R.A.A**., Sieweke, M.H. "Isolation, Ex Vivo Expansion, and Lentiviral Transduction of Alveolar Macrophages. In: Mass, E. (eds) Tissue-Resident Macrophages." Methods in Molecular Biology, vol 2713. 231-251(2024).
+* **Ridzky Anis Advent Yuda**, Valerie Kellet, Fan Yang, Moonjung Jung., Chronic alcohol consumption epigenetically reactivates transposable elements in aged hematopoietic stem cells., **Abstract Accepted in Blood**., 2025
 
-* Sethuraman Subramanian, Clara Jana-Lui Busch, Kaaweh Molawi, Laufey Geirsdottir, Julien Maurizio, Stephanie Vargas Aguilar, Hassiba Belahbib, Gregory Gimenez, **Ridzky Anis Advent Yuda**, Michaela Burkon, Jérémy Favret, Sara Gholamhosseinian Najjar, Bérengère de Laval, Prashanth Kumar Kandalla, Sandrine Sarrazin, Lena Alexopoulou, Michael H. Sieweke., Long-term culture-expanded alveolar macrophages restore their full epigenetic identity after transfer in vivo." Nat Immunol 23. 458-468(2022)
+* **Ridzky Anis Advent Yuda**, Valerie Kellet, Haruna B. Choijilsuren, Zewen Ha, Fan Yang, Moonjung Jung. Combinatorial Effect of Chronic Alcohol Drinking and Age Perpetuates Myeloid-Biased Hematopoiesis Via Hematopoietic Stem Cell Senescence. **Blood** Volume 144 Supplement 1 . Page 2672
 
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+* Busch, C.JL., Subramanian, S., Linares, J., Favret, J., **Yuda, R.A.A**., Sieweke, M.H. "Isolation, Ex Vivo Expansion, and Lentiviral Transduction of Alveolar Macrophages. In: Mass, E. (eds) Tissue-Resident Macrophages." **Methods in Molecular Biology**, vol 2713. 231-251(2024).
+
+* Sethuraman Subramanian, Clara Jana-Lui Busch, Kaaweh Molawi, Laufey Geirsdottir, Julien Maurizio, Stephanie Vargas Aguilar, Hassiba Belahbib, Gregory Gimenez, **Ridzky Anis Advent Yuda**, Michaela Burkon, Jérémy Favret, Sara Gholamhosseinian Najjar, Bérengère de Laval, Prashanth Kumar Kandalla, Sandrine Sarrazin, Lena Alexopoulou, Michael H. Sieweke., "Long-term culture-expanded alveolar macrophages restore their full epigenetic identity after transfer in vivo." **Nature Immunology** 23. 458-468(2022)
+
+
+
+  #<ul>{% for post in site.publications reversed %}
+   # {% include archive-single-cv.html %}
+  #{% endfor %}</ul>
   
   
 Skills
@@ -84,16 +91,16 @@ Skills
 
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  #<ul>{% for post in site.talks reversed %}
+   # {% include archive-single-talk-cv.html  %}
+  #{% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+ # <ul>{% for post in site.teaching reversed %}
+  #  {% include archive-single-cv.html %}
+  #{% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
