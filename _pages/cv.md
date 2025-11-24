@@ -13,9 +13,9 @@ redirect_from:
 
 Contact 
 ======
-Name                 : Ridzky A. A. Yuda, Ph.D. (he/him)
-Work Address         : 720 Rutland Ave. Baltimore, Maryland, 21210, USA
-Contact information  : ryuda1@jhmi.edu
+* Name                 : Ridzky A. A. Yuda, Ph.D. (he/him)
+* Work Address         : 720 Rutland Ave. Baltimore, Maryland, 21210, USA
+* Contact information  : ryuda1@jhmi.edu
 
 Summary of Research Interest
 =====
@@ -48,8 +48,10 @@ Scientific Appointment
 Publications
 ======
 * **Ridzky A. A. Yuda**, Habin Bea, Valerie Kellett, Jungwoo Kim, Fan Yang, Haruna B. Choijilsuren, Yejie Park, Yaojie Fu, Zewen Ha, Juhye Choi, Zhaoli Sun, Bin Gao, Sangmoo Jeong, Linda M. S. Resar, Moonjung Jung., "Chronic alcohol consumption causes inflammaging and epigenetic reactivation of transposable elements in hematopoietic stem progenitor cells"., **Manuscript In Submission to Blood**., 2025
+  
+* Mallikarjun Reddy, Alli Abolarin, Valerie Kellet, Michaela Eleanor Bhoorasingh, Rodger Black, Bradley Priem, Fan Yang, **Ridzky A. A. Yuda**, Michael Betenbaugh, Moonjung Jung, Sangmoo Jeong., "Dietary serine restriction increases venetoclax efficacy in acute myeloid leukemia"., **Abstract Accepted in Blood for 67th ASH Symposium**., 2025
 
-* **Ridzky Anis Advent Yuda**, Valerie Kellet, Fan Yang, Moonjung Jung., Chronic alcohol consumption epigenetically reactivates transposable elements in aged hematopoietic stem cells., **Abstract Accepted in Blood**., 2025
+* **Ridzky Anis Advent Yuda**, Valerie Kellet, Fan Yang, Moonjung Jung., Chronic alcohol consumption epigenetically reactivates transposable elements in aged hematopoietic stem cells.,  **Abstract Accepted in Blood for 67th ASH Symposium**., 2025
 
 * **Ridzky Anis Advent Yuda**, Valerie Kellet, Haruna B. Choijilsuren, Zewen Ha, Fan Yang, Moonjung Jung. Combinatorial Effect of Chronic Alcohol Drinking and Age Perpetuates Myeloid-Biased Hematopoiesis Via Hematopoietic Stem Cell Senescence. **Blood** Volume 144 Supplement 1 . Page 2672
 
