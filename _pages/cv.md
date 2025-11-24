@@ -23,6 +23,12 @@ Scientific Appointment
 * Summer School Student in Cancer Research, Deutsches Krebsforschungszentrum (German Cancer Research Center, DKFZ), Germany (2017)
 * Molecular Biology Lab Technician, Hospital for Infectious Diseases, Airlangga University, (2014-2016)
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
   
 Skills
 ======
@@ -69,12 +75,7 @@ Skills
   * Strong interpersonal and leadership skills
   * Proven track record in managing organization from student bodies to research project
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
