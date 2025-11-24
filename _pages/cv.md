@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Regenerative Biology, Medizinische Fakultät Carl Gustav Carus, Technische Universität Dresden, Germany
-  Thesis: **Zellzyklusaktivierung induziert Verjüngung der Gensignaturen in alten Alveolarmakrophagen**.
+  Thesis: **Zellzyklusaktivierung induziert Verjüngung der Gensignaturen in alten Alveolarmakrophagen (Cell cycle activation induces rejuvenated gene signatures in alveolar macrophages)**.
   Advisor (Doktorvater): Prof. Michael Sieweke, Ph.D.
   Co-advisor: Prof. Dr. Federico Calegari and Prof. Dr. med Triantafyllos Chavakis.
   
@@ -23,7 +23,7 @@ Education
   Advisor: Prof. Dr. Federico Calegari & Prof. Jared Sterneckert, Ph.D.
   
 * B.S. in Biology, Faculty of Science and Technology, Airlangga University, Indonesia
-  Thesis: **Isolasi Bakteri Selulolitik Termofilik dari Sumber Air Panas Gunung Kelud dan Karakterisasi Crude Enzim Selulase**
+  Thesis: **Isolasi Bakteri Selulolitik Termofilik dari Sumber Air Panas Gunung Kelud dan Karakterisasi Crude Enzim Selulase (Thermophilic bacteria isolation from Mt. Kelud's hotspring and its crude celulase enzyme characterization)**
   Advisor: Prof. Dr. Ni'matuzahroh and Prof. Dr. Sri Pudjiastuti
 
 Scientific Appointment
