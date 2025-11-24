@@ -14,25 +14,25 @@ redirect_from:
 Education
 ======
 * Ph.D in Regenerative Biology, Medizinische Fakultät Carl Gustav Carus, Technische Universität Dresden, Germany
-  Thesis: Zellzyklusaktivierung induziert Verjüngung der Gensignaturen in alten Alveolarmakrophagen.
+  Thesis: **Zellzyklusaktivierung induziert Verjüngung der Gensignaturen in alten Alveolarmakrophagen**.
   Advisor (Doktorvater): Prof. Michael Sieweke, Ph.D.
   Co-advisor: Prof. Dr. Federico Calegari and Prof. Dr. med Triantafyllos Chavakis.
   
 * M.S. in Regenerative Biology and Medicine, Center for Molecular and Cellular Bioengineering (CMCB), Technische Universität Dresden, Germany
-  Thesis: Oligodendrocytes-preferring adeno-associated virus for studying Sox2-mediated reprogramming in oligodendrocytes progenitor cells (OPCs)
+  Thesis: **Oligodendrocytes-preferring adeno-associated virus for studying Sox2-mediated reprogramming in oligodendrocytes progenitor cells (OPCs)**
   Advisor: Prof. Dr. Federico Calegari & Prof. Jared Sterneckert, Ph.D.
   
 * B.S. in Biology, Faculty of Science and Technology, Airlangga University, Indonesia
-  Thesis: Isolasi Bakteri Selulolitik Termofilik dari Sumber Air Panas Gunung Kelud dan Karakterisasi Crude Enzim Selulase
+  Thesis: **Isolasi Bakteri Selulolitik Termofilik dari Sumber Air Panas Gunung Kelud dan Karakterisasi Crude Enzim Selulase**
   Advisor: Prof. Dr. Ni'matuzahroh and Prof. Dr. Sri Pudjiastuti
 
 Scientific Appointment
 ======
-* Postdoctoral Fellow, Division of Hematology, Johns Hopkins University School of Medicine, USA (2023-present).
-* Research Associate (_Wissenschaftlicher Mitarbeiter_), Technische Universität Dresden, Germany (2018-2023)
-* Student technical assistant (_Studentische Hilfskraft_) at the Electron Microscopy Facility, Center for Molecular and Cellular Bioengineering, Technische Universität Dresden, Germany (2017-2018)
-* Summer School Student in Cancer Research, German Cancer Research Center (Deutsches Krebsforschungszentrum, DKFZ), Germany (2017)
-* Molecular Biology Lab Technician, Hospital for Infectious Diseases, Airlangga University, (2014-2016)
+* **Postdoctoral Fellow**, Division of Hematology, Johns Hopkins University School of Medicine, USA (2023-present).
+* **Research Associate** (_Wissenschaftlicher Mitarbeiter_), Technische Universität Dresden, Germany (2018-2023)
+* **Student technical assistant** (_Studentische Hilfskraft_) at the Electron Microscopy Facility, Center for Molecular and Cellular Bioengineering, Technische Universität Dresden, Germany (2017-2018)
+* **Summer School Student** in Cancer Research, German Cancer Research Center (Deutsches Krebsforschungszentrum, DKFZ), Germany (2017)
+* **Molecular Biology Lab Technician**, Hospital for Infectious Diseases, Airlangga University, (2014-2016)
 
 Publications
 ======
