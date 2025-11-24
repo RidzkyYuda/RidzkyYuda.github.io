@@ -63,6 +63,10 @@ Funding, Awards, and other Achievements
 
 * **Bronze medal** for Biology at the National Selection Level for International Biology Olympiad (2008). Ministry of Education, Indonesia
 
+Profesional service
+======
+* Assistant peer-reviewer for a manuscript submitted in **Blood**
+
 Skills
 ======
 * Cellular and molecular biology
@@ -98,11 +102,11 @@ Skills
   * FIJI/ImageJ macro
   * GitHub repository and documentation.
     
-* Language skills (CEFFR level)
+* Language skills (CEFR level)
+  * Indonesian (native/C2)
   * English (C1)
   * German (B1)
   * Dutch (A1)
-  * Indonesian (native)
     
 * Leadership skills
   * Strong interpersonal and leadership skills
