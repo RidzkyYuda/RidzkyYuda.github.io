@@ -14,7 +14,7 @@ authors:
   - Fan Yang
   - Moonjung Jung
 type: journal
-#citation: 'Yuda, Ridzky et al. (2025). &quot;Chronic alcohol consumption epigenetically reactivates transposable elements in aged hematopoietic stem cells.&quot; <i>Blood Volume 144 Supplement 1 </i>. Page 2672.'
+citation: 'Yuda, Ridzky et al. (2025). &quot;Chronic alcohol consumption epigenetically reactivates transposable elements in aged hematopoietic stem cells.&quot; <i>Blood </i>. Page XXXX.'
 ---
 
 This is an accepted abstract that will be published in Blood journal. This abstract will be presented as poster presentation at the 67th American Society of Hematology Symposium in Orlando, Florida 
