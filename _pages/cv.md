@@ -107,13 +107,14 @@ Skills
   * Strong interpersonal and leadership skills
   * Proven track record in managing organization from student bodies to research project
 
-
+{% if page.show_talks %}
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+{% endif %}
+
 #Teaching
 #======
  # <ul>{% for post in site.teaching reversed %}
