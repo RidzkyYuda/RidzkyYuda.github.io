@@ -55,7 +55,9 @@ Publications
   
 Succesful Funding History
 ======
-* **Maryland Stem Cell Research Fund (MSCRF) Postdoctoral Fellowship Award** (Awarded 2024-2026). A prestigious and highly competitive fellowship awarded to support my postdoctoral research studying "Epigenetic Regulation Underlying Chronic Alcohol-Induced Double-Stranded RNA Accumulation and Inflammation in Hematopoietic Stem Progenitor Cells" at the Johns Hopkins University (2024-2026). Funded by Maryland Stem Cell Research Fund (MSCRF)
+* **Maryland Stem Cell Research Fund (MSCRF) Postdoctoral Fellowship Award** (Awarded 2024-2026).
+Role: Principal Investigator (PI).
+A prestigious and highly competitive fellowship awarded to support my postdoctoral research studying "Epigenetic Regulation Underlying Chronic Alcohol-Induced Double-Stranded RNA Accumulation and Inflammation in Hematopoietic Stem Progenitor Cells" at the Johns Hopkins University. Funded by Maryland Stem Cell Research Fund (MSCRF)
 
 Honors, Awards, and other Achievements
 ======
