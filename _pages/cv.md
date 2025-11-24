@@ -11,6 +11,17 @@ redirect_from:
 
 {% include base_path %}
 
+Contact 
+======
+Name                 : Ridzky A. A. Yuda, Ph.D. (he/him)
+Work Address         : 720 Rutland Ave. Baltimore, Maryland, 21210, USA
+Contact information  : ryuda1@jhmi.edu
+
+Summary of Research Interest
+=====
+
+My research focuses on understanding how cellular and molecular mechanisms, including transcriptional and epigenetic regulation, govern hematopoietic stem cell (HSC) fate decisions and macrophage self-renewal in the context of inflammation and aging. I combine in vivo mouse models, molecular biology, and bulk and single-cell omics to investigate how environmental exposures and aging influence stem cell lineage commitment. I am particularly interested in how epigenetic regulators and transposable elements shape hematopoiesis via immune signaling. My long-term goal is to define and test candidate pathways using high-throughput gain- and loss-of-function approaches to rejuvenate aging stem cell and macrophage function.
+
 Education
 ======
 * Ph.D in Regenerative Biology, Medizinische Fakultät Carl Gustav Carus, Technische Universität Dresden, Germany
@@ -53,14 +64,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Succesful Funded Fellowship
+Succesful Funding Acquisition
 ======
 * **Maryland Stem Cell Research Fund (MSCRF) Postdoctoral Fellowship Award** (Awarded 2024-2026).
 Role: Principal Investigator (PI).
 A competitive and prestigious fellowship supporting my independent postdoctoral project on the epigenetic regulation of alcohol-induced dsRNA accumulation and inflammation in hematopoietic stem/progenitor cells at Johns Hopkins University.
 link https://www.mscrf.org/awardees#2024
 
-Honors, Awards, and other Achievements
+Honors and Awards
 ======
 * **Abstract Achievement Award** from **American Society of Hematology (ASH)** for abstract with title Chronic alcohol consumption epigenetically reactivates transposable elements in aged hematopoietic stem cells. December 2025.
   
@@ -80,6 +91,11 @@ Profesional service
 ======
 * Peer-reviewer for a manuscript submitted to **Blood**
 
+Trainings and Courses
+=====
+* Bioinformatics Training RNA-seq data analysis by ECSeq GmbH, Germany (2022)
+* Autumn School for Microbiome Analysis using next generation seqeuncing by Germany
+  
 Skills
 ======
 * Cellular and molecular biology
@@ -105,6 +121,12 @@ Skills
   * Stereotactic injection of lentivirus into mouse brain.
   * Mouse surgery. 
  
+* Microscopy Imaging
+  * Transmission electron microscope (TEM) sample preparation and operation of TEM
+  * Correlative light and electron microscopy (CLEM)
+  * Confocal fluorescence microscopy imaging
+  * Wide-field fluorescence microscopy imaging with optical sectioning in Zeiss Axio Observer. 
+    
 * Bioinformatics of Omics Data
   * Transcriptomics: Bulk and single-cell RNA-seq: DESeq2, Seurat, CellRanger, scTE, STAR and Bowtie genome alignment
   * EpigenomicsL: Bulk and single-cell ATAC-seq: ArchR
