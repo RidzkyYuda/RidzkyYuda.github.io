@@ -4,6 +4,7 @@ title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 show_talks: false
+show_teaching: false
 redirect_from:
   - /resume
 ---
@@ -115,12 +116,15 @@ Talks
   {% endfor %}</ul>
 {% endif %}
 
+{% if page.show_teaching%}
 #Teaching
 #======
  # <ul>{% for post in site.teaching reversed %}
   #  {% include archive-single-cv.html %}
   #{% endfor %}</ul>
+{% endif %}
   
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
+Leadership
+======
+* Head of Student Executive Organization of the Faculty of Science and Technology, Airlangga University, (2012)
+* Head of Microbiology Study Club, Biology Student Association, Faculty of Science and Technology, Airlangga University, (2011)
