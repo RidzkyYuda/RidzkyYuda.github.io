@@ -96,7 +96,7 @@ Profesional service
 Trainings and Courses
 =====
 * Single-cell Transcriptomics Data Analysis. Joint training between Sydney Kimmel Comprehensive Cancer Center at Johns Hopkins University and Cornel University Genome Center (2023)
-* Writing a Winning NIH Grant Proposal by 
+* Writing a Winning NIH Grant Proposal by John. D. Robertson, Ph.D. Grant Writters' Seminar and Workshop (2023).
 * Bioinformatics Training RNA-seq data analysis by ECSeq GmbH, Germany (2022).
 * Autumn School for Microbiome Analysis using next generation seqeuncing by Germany
   
