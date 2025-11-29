@@ -80,6 +80,8 @@ Honors and Awards
 * **2nd Best Poster Award** at the 2nd Annual Maryland Stem Cell Research Symposium. October 2025
 
 * **Training Award Grant** from Dresden International School for Biomedicine and Bioengineering. October 2021
+  
+* **SUPERSEMAR Excellent Student Scholarship. Supersemar Foundation (2012)
 
 * **Gold medal** for Biology, National Olympiad for Mathematics and Natural Sciences for Undergraduate Students (2012). Ministry of Higher Education, Indonesia
 
