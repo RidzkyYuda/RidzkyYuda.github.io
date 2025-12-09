@@ -10,7 +10,7 @@ tags:
   - Aging
 ---
 
-My abstract was selected for poster presentation at the 67th annual meeting of the American Society of Hematology (ASH) in Orlando, Florida. I also awarded ASH Abstract Achievement Award for high quality abstract submitted to 67th ASH meeting. 
+My abstract was selected for poster presentation at the 67th annual meeting of the American Society of Hematology (ASH) in Orlando, Florida. My abstract also won an ASH Abstract Achievement Award. In this poster, I talked about the modulatory effect of aging on alcohol-induced inflammations and perpetuated transposable element upregulation in aged hematopoietic stem cells. I found these changes correlate with significant re-opening of transposable element-associated genomic loci.
 
 ![alt text]({{ site.baseurl }}/images/PosterASHPresentation.png)
 
