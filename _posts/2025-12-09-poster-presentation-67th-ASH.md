@@ -8,9 +8,10 @@ tags:
   - Retroelements
   - Alcohol
   - Aging
+  - Inflammation
 ---
 
-My abstract was selected for poster presentation at the 67th annual meeting of the American Society of Hematology (ASH) in Orlando, Florida. My abstract also won an ASH Abstract Achievement Award. In this poster, I talked about the modulatory effect of aging on alcohol-induced inflammations and perpetuated transposable element upregulation in aged hematopoietic stem cells. I found these changes correlate with significant re-opening of transposable element-associated genomic loci.
+My abstract was selected for a poster presentation at the 67th Annual Meeting of the American Society of Hematology (ASH) in Orlando, Florida, where I received an ASH Abstract Achievement Award. In this poster, I presented findings on how aging modulates alcohol-induced inflammation and sustains transposable element upregulation in aged hematopoietic stem cells (HSCs). These changes were associated with a pronounced re-opening of transposable element–linked genomic loci in aged HSCs.
 
 ![alt text]({{ site.baseurl }}/images/PosterASHPresentation.png)
 
