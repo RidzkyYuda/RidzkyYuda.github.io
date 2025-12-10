@@ -1,5 +1,5 @@
 ---
-title: 'Abstract Achievement Award at the 67th American Society of Hematology (ASH) Meeting
+title: 'Abstract Achievement Award at the 67th American Society of Hematology (ASH) Meeting'
 date: 2025-12-09
 permalink: /posts/2025/12/Abstract-Achievement-Award-67th-ASH/
 tags:
