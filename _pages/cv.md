@@ -81,7 +81,7 @@ Honors and Awards
 
 * **Training Award Grant** from Dresden International School for Biomedicine and Bioengineering. October 2021
   
-* **SUPERSEMAR Excellent Student Scholarship. Supersemar Foundation (2012)
+* **SUPERSEMAR** Excellent Student Scholarship. Supersemar Foundation (2012)
 
 * **Gold medal** for Biology, National Olympiad for Mathematics and Natural Sciences for Undergraduate Students (2012). Ministry of Higher Education, Indonesia
 
@@ -172,5 +172,5 @@ Talks
 Leadership
 ======
 * PI of MSCRF-funded research project to study HSC epigenome in response to alcohol and aging. Activities involved: Research project administration, design, conceptualization, investigation, data curation, analysis, visualization, and reporting to funding agency and manuscript preparation. 
-* Head of Student Executive Organization of the Faculty of Science and Technology, Airlangga University, (2012): Activities involved: Leadership and administration of the organization to representing students' interests and aims for extracurricular activities
+* Head of Student Executive Organization of the Faculty of Science and Technology, Airlangga University, (2012): Activities involved: Leadership and administration of the organization to representing students' interests and aims for extracurricular activities, as well as active involvement of student bodies into political movement to 
 * Head of Microbiology Study Club, Biology Student Association, Faculty of Science and Technology, Airlangga University, (2011). Activities involved: Leadership and management of microbiology study activities including workshop and tutorials.
