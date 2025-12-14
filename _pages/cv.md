@@ -51,9 +51,9 @@ Publications
   
 * Mallikarjun Reddy, Alli Abolarin, Valerie Kellet, Michaela Eleanor Bhoorasingh, Rodger Black, Bradley Priem, Fan Yang, **Ridzky A. A. Yuda**, Michael Betenbaugh, Moonjung Jung, Sangmoo Jeong., "Dietary serine restriction increases venetoclax efficacy in acute myeloid leukemia"., **Blood**, Volume 146 Supplement 1., Page 5046
 
-* **Ridzky Anis Advent Yuda**, Valerie Kellet, Fan Yang, Moonjung Jung., Chronic alcohol consumption epigenetically reactivates transposable elements in aged hematopoietic stem cells., **Blood**, Volume 146 Supplement 1., Page 1378
+* **Ridzky A. A. Yuda**, Valerie Kellet, Fan Yang, Moonjung Jung., Chronic alcohol consumption epigenetically reactivates transposable elements in aged hematopoietic stem cells., **Blood**, Volume 146 Supplement 1., Page 1378
 
-* **Ridzky Anis Advent Yuda**, Valerie Kellet, Haruna B. Choijilsuren, Zewen Ha, Fan Yang, Moonjung Jung. Combinatorial Effect of Chronic Alcohol Drinking and Age Perpetuates Myeloid-Biased Hematopoiesis Via Hematopoietic Stem Cell Senescence. **Blood** Volume 144 Supplement 1 . Page 2672
+* **Ridzky A. A. Yuda**, Valerie Kellet, Haruna B. Choijilsuren, Zewen Ha, Fan Yang, Moonjung Jung. Combinatorial Effect of Chronic Alcohol Drinking and Age Perpetuates Myeloid-Biased Hematopoiesis Via Hematopoietic Stem Cell Senescence. **Blood** Volume 144 Supplement 1 . Page 2672
 
 * Busch, C.JL., Subramanian, S., Linares, J., Favret, J., **Yuda, R.A.A**., Sieweke, M.H. "Isolation, Ex Vivo Expansion, and Lentiviral Transduction of Alveolar Macrophages. In: Mass, E. (eds) Tissue-Resident Macrophages." **Methods in Molecular Biology**, vol 2713. 231-251(2024).
 
