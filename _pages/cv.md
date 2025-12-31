@@ -47,7 +47,7 @@ Scientific Appointment
 
 Publications
 ======
-* **Ridzky A. A. Yuda**, Habin Bea, Valerie Kellett, Jungwoo Kim, Fan Yang, Haruna B. Choijilsuren, Yejie Park, Yaojie Fu, Zewen Ha, Juhye Choi, Zhaoli Sun, Bin Gao, Sangmoo Jeong, Linda M. S. Resar, Moonjung Jung., "Chronic alcohol consumption causes inflammaging and epigenetic reactivation of transposable elements in hematopoietic stem progenitor cells"., **Manuscript In Submission to Blood**., 2025
+* **Ridzky A. A. Yuda**, Habin Bea, Valerie Kellett, Jungwoo Kim, Fan Yang, Haruna B. Choijilsuren, Yejie Park, Yaojie Fu, Zewen Ha, Juhye Choi, Zhaoli Sun, Bin Gao, Sangmoo Jeong, Linda M. S. Resar, Moonjung Jung., "Chronic alcohol consumption drives inflammaging and transposon derepression in hematopoietic stem and progenitor cells"., **bioRxiv**., 2025. doi: https://doi.org/10.64898/2025.12.25.696246
   
 * Mallikarjun Reddy, Alli Abolarin, Valerie Kellet, Michaela Eleanor Bhoorasingh, Rodger Black, Bradley Priem, Fan Yang, **Ridzky A. A. Yuda**, Michael Betenbaugh, Moonjung Jung, Sangmoo Jeong., "Dietary serine restriction increases venetoclax efficacy in acute myeloid leukemia"., **Blood**, Volume 146 Supplement 1., Page 5046
 
