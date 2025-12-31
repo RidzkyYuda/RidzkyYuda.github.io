@@ -9,7 +9,7 @@ venue: 'bioRxiv, Cold Spring Harbor Laboratory'
 screenshot: /images/preprint_screen_shoot.png
 paperurl: 'https://doi.org/10.64898/2025.12.25.696246'
 authors:
-  - Ridzky A. A. Yuda*
+  - Ridzky A. A. Yuda#
   - Habin Bea
   - Valerie Kellett
   - Jungwoo Kim
@@ -26,7 +26,7 @@ authors:
   - Linda M. S. Resar
   - Moonjung Jung
 
-* first author
+# first author
   
 type: journal
 citation: 'Yuda, R.A.A., et al. &quot;Chronic alcohol consumption drives inflammaging and transposon derepression in hematopoietic stem and progenitor cells.&quot; <i>bioRxiv 2025</i>..'
