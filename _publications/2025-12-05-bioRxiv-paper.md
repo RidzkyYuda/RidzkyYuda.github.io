@@ -9,7 +9,7 @@ venue: 'bioRxiv, Cold Spring Harbor Laboratory'
 screenshot: /images/preprint_screen_shoot.png
 paperurl: 'https://doi.org/10.64898/2025.12.25.696246'
 authors:
-  - **Ridzky A. A. Yuda**
+  - Ridzky A. A. Yuda
   - Habin Bea
   - Valerie Kellett
   - Jungwoo Kim
