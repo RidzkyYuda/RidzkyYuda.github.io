@@ -6,8 +6,8 @@ permalink: /publication/2025-12-05-bioRxiv-alcohol-aging-paper
 excerpt: 'Chronic alcohol, inflmmaging, transposable elements, HSPCs'
 date: 2025-12-26
 venue: 'bioRxiv, Cold Spring Harbor Laboratory'
-#screenshot: /images/MMB.png
-#paperurl: 'https://doi.org/10.64898/2025.12.25.696246'
+screenshot: /images/preprint_screen_shoot.png
+paperurl: 'https://doi.org/10.64898/2025.12.25.696246'
 authors:
   - Ridzky A. A. Yuda
   - Habin Bea
@@ -27,7 +27,7 @@ authors:
   - Moonjung Jung
 
 type: journal
-citation: 'Yuda, R.A.A., et al. &quot;Chronic alcohol consumption drives inflammaging and transposon derepression in hematopoietic stem and progenitor cells.&quot; <i>Manuscript in Submission</i>..'
+citation: 'Yuda, R.A.A., et al. &quot;Chronic alcohol consumption drives inflammaging and transposon derepression in hematopoietic stem and progenitor cells.&quot; <i>bioRxiv 2025</i>..'
 ---
 My preprint manuscript submitted to bioRxiv. 
 
