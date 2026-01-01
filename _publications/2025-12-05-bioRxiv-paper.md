@@ -3,7 +3,7 @@ title: "Chronic alcohol consumption drives inflammaging and transposon derepress
 collection: publications
 category: manuscripts
 permalink: /publication/2025-12-05-bioRxiv-alcohol-aging-paper
-excerpt: 'Chronic alcohol, inflmmaging, transposable elements, HSPCs'
+excerpt: 'Chronic alcohol, inflammaging, transposable elements, HSPCs'
 date: 2025-12-26
 venue: 'bioRxiv, Cold Spring Harbor Laboratory'
 screenshot: /images/preprint_screen_shoot.png
