@@ -43,4 +43,5 @@ Chronic alcohol use causes pancytopenia and diminished immune responses against 
    - Chronic alcohol consumption alters epigenome, driving heightened transposon upregulation in aged HSPCs
 
 **Keywords**
+
 Hematopoietic stem progenitor cells; chronic alcohol; inflammation, aging, transposon, epigenetic, single-cell omics
