@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Dietary serine restriction increases venetoclax efficacy in Acute Myeloid Leukemia"
 collection: publications
 category: conferences
 permalink: /publication/2025-11-21-blood-abstract-vene
@@ -21,7 +21,7 @@ authors:
   - Moonjung Jung
   - Sangmoo Jeong 
 type: journal
-citation: 'Malikarjun, Reddy et al. (2025). &quot;Dietary serine restriction increases venetoclax efficacy in Acute Myeloid Leukemia.&quot; <i>Blood 2025 vol 146 supplement 1 </i>. Page .'
+citation: 'Malikarjun, Reddy et al. (2025). &quot;Dietary serine restriction increases venetoclax efficacy in Acute Myeloid Leukemia.&quot; <i>Blood 2025 vol 146 supplement 1 </i>. Page 5046.'
 ---
 
 I contributed to this abstract by performing apoptosis analysis of human CD34+ cells and leukemia cell lines after treated with combination of venetoclax and serine-depleted medium
