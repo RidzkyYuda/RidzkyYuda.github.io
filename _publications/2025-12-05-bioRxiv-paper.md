@@ -19,7 +19,7 @@ authors:
   - Yaojie Fu
   - Zewen Ha
   - Juhye Choi
-  - Liping Z. Li
+  - Li Z. Luo
   - Zhaoli Sun
   - Bin Gao
   - Sangmoo Jeong
