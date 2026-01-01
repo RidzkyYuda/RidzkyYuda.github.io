@@ -16,7 +16,7 @@ authors:
   - Rodger Black
   - Bradley Priem
   - Fan Yan
-  - **Ridzky Yuda**
+  - Ridzky Yuda
   - Michael Betenbaugh
   - Moonjung Jung
   - Sangmoo Jeong 
