@@ -16,7 +16,7 @@ description              : &description "Biosketch Profile"   # Update this with
 url                      : https://RidzkyYuda.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "RidzkyYuda/RidzkyYuda.github.io"
+repository               : "https://github.com/RidzkyYuda"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ repository               : "RidzkyYuda/RidzkyYuda.github.io"
 author:
   # Biographic information
   avatar           : "profilephoto.png"
-  name             : "Dr. rer. medic. Ridzky Yuda"
+  name             : "Ridzky Yuda"
   pronouns         : "he/him"  
   bio              : "Stem cell biologist studying hematopoietic stem cell inflammation and aging"
   location         : "Baltimore, MD, US"
