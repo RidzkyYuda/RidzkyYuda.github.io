@@ -24,7 +24,7 @@ My research focuses on understanding how cellular and molecular mechanisms, incl
 Education
 ======
 * Ph.D in Regenerative Biology, Medizinische Fakultät Carl Gustav Carus, Technische Universität Dresden, Germany
-  Thesis: **Zellzyklusaktivierung induziert Verjüngung der Gensignaturen in alten Alveolarmakrophagen (Cell cycle activation induces rejuvenated gene signatures in alveolar macrophages)**.
+  Thesis: **Zellzyklusaktivierung induziert Verjüngung der Gensignaturen in alten Alveolarmakrophagen (Cell cycle activation induces rejuvenated gene signatures in aging alveolar macrophages)**.
   Advisor (Doktorvater): Prof. Michael Sieweke, Ph.D.
   Co-advisor: Prof. Dr. Federico Calegari and Prof. Dr. med Triantafyllos Chavakis.
   
