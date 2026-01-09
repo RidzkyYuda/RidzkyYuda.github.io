@@ -2,9 +2,6 @@
 permalink: /
 title: "Ridzky Yuda"
 author_profile: true
-#redirect_from: 
- # - /about/
-  #- /about.html
 ---
 
 I am a postdoctoral fellow in the Division of Hematology at the Johns Hopkins University School of Medicine. As a stem cell biologist, I am intrigued by the process of how stem cells balance self-renewal and differentiation, and when that mechanisms get awry in age-related degenerative diseases and cancers. My research aims to understand cellular and molecular (transcriptome and epigenome) mechanisms that govern hematopoietic stem cell (HSC) fate decisions and macrophage self-renewal during inflammation, aging, or combination of both.
