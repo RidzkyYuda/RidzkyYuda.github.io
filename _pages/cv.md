@@ -47,15 +47,14 @@ Scientific Appointment
 Publications
 ======
 * **Ridzky A. A. Yuda**, Habin Bea, Valerie Kellett, Jungwoo Kim, Fan Yang, Haruna B. Choijilsuren, Yejie Park, Yaojie Fu, Zewen Ha, Juhye Choi, Zhaoli Sun, Bin Gao, Sangmoo Jeong, Linda M. S. Resar, Moonjung Jung., "Chronic alcohol consumption drives inflammaging and transposon derepression in hematopoietic stem and progenitor cells"., **bioRxiv**., 2025. doi: https://doi.org/10.64898/2025.12.25.696246
-  
-* Mallikarjun Reddy, Alli Abolarin, Valerie Kellet, Michaela Eleanor Bhoorasingh, Rodger Black, Bradley Priem, Fan Yang, **Ridzky A. A. Yuda**, Michael Betenbaugh, Moonjung Jung, Sangmoo Jeong., "Dietary serine restriction increases venetoclax efficacy in acute myeloid leukemia"., **Blood**, Volume 146 Supplement 1., Page 5046., 2025., doi: https://doi.org/10.1182/blood-2025-5046
 
+Dev, S., Wang, Y., Jung, M., Ma, Y., Mani, S., Kabin, E., **Yuda, R**., Dong, Y., Ralle, M., Hamilton, J.P., Lutsenko, S., ATP7B-maintained copper stores in myeloid progenitors are required for functional maturation of neutrophils., **Cell Reports**., 2026 (Accepted)
+
+* Mallikarjun Reddy, Alli Abolarin, Valerie Kellet, Michaela Eleanor Bhoorasingh, Rodger Black, Bradley Priem, Fan Yang, **Ridzky A. A. Yuda**, Michael Betenbaugh, Moonjung Jung, Sangmoo Jeong., "Dietary serine restriction increases venetoclax efficacy in acute myeloid leukemia"., **Blood**, Volume 146 Supplement 1., Page 5046., 2025., doi: https://doi.org/10.1182/blood-2025-5046
 
 * **Ridzky A. A. Yuda**, Valerie Kellet, Fan Yang, Moonjung Jung., Chronic alcohol consumption epigenetically reactivates transposable elements in aged hematopoietic stem cells., **Blood**, Volume 146 Supplement 1., Page 1378., 2025., doi: https://doi.org/10.1182/blood-2025-1378
 
-
 * **Ridzky A. A. Yuda**, Valerie Kellet, Haruna B. Choijilsuren, Zewen Ha, Fan Yang, Moonjung Jung. Combinatorial Effect of Chronic Alcohol Drinking and Age Perpetuates Myeloid-Biased Hematopoiesis Via Hematopoietic Stem Cell Senescence. **Blood** Volume 144 Supplement 1 . Page 2672., 2024., doi: https://doi.org/10.1182/blood-2024-211006
-
 
 * Busch, C.JL., Subramanian, S., Linares, J., Favret, J., **Yuda, R.A.A**., Sieweke, M.H. "Isolation, Ex Vivo Expansion, and Lentiviral Transduction of Alveolar Macrophages. In: Mass, E. (eds) Tissue-Resident Macrophages." **Methods in Molecular Biology**, vol 2713. 231-251(2024). doi: https://link.springer.com/protocol/10.1007/978-1-0716-3437-0_16
 
