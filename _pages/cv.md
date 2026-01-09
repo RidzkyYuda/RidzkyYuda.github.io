@@ -47,8 +47,8 @@ Scientific Appointment
 Publications
 ======
 * **Ridzky A. A. Yuda**, Habin Bea, Valerie Kellett, Jungwoo Kim, Fan Yang, Haruna B. Choijilsuren, Yejie Park, Yaojie Fu, Zewen Ha, Juhye Choi, Zhaoli Sun, Bin Gao, Sangmoo Jeong, Linda M. S. Resar, Moonjung Jung., "Chronic alcohol consumption drives inflammaging and transposon derepression in hematopoietic stem and progenitor cells"., **bioRxiv**., 2025. doi: https://doi.org/10.64898/2025.12.25.696246
-
-Dev, S., Wang, Y., Jung, M., Ma, Y., Mani, S., Kabin, E., **Yuda, R**., Dong, Y., Ralle, M., Hamilton, J.P., Lutsenko, S., ATP7B-maintained copper stores in myeloid progenitors are required for functional maturation of neutrophils., **Cell Reports**., 2026 (Accepted)
+  
+* Dev, S., Wang, Y., Jung, M., Ma, Y., Mani, S., Kabin, E., **Yuda, R**., Dong, Y., Ralle, M., Hamilton, J.P., Lutsenko, S., ATP7B-maintained copper stores in myeloid progenitors are required for functional maturation of neutrophils., **Cell Reports**., 2026 (Accepted)
 
 * Mallikarjun Reddy, Alli Abolarin, Valerie Kellet, Michaela Eleanor Bhoorasingh, Rodger Black, Bradley Priem, Fan Yang, **Ridzky A. A. Yuda**, Michael Betenbaugh, Moonjung Jung, Sangmoo Jeong., "Dietary serine restriction increases venetoclax efficacy in acute myeloid leukemia"., **Blood**, Volume 146 Supplement 1., Page 5046., 2025., doi: https://doi.org/10.1182/blood-2025-5046
 
