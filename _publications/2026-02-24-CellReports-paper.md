@@ -15,7 +15,7 @@ authors:
   - Yingze Ma
   - Sepehr Mani
   - Ekaterina Kabin
-  - *Ridzky Yuda*
+  - "*Ridzky Yuda*"
   - Yixuan Dong
   - Martina Ralle
   - James P. Hamilton
