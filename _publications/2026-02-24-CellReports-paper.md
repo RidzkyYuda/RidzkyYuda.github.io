@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-02-24-Cell-Reports-Neutrophil
 excerpt: 'ATP7B, Copper, Neutrophils, Cebpe'
-date: 2025-12-26
+date: 2026-02-24
 venue: 'Cell Reports, Cell Press'
 screenshot: /images/CellRepFront.png
 paperurl: 'https://doi.org/10.1016/j.celrep.2026.116955'
@@ -15,7 +15,7 @@ authors:
   - Yingze Ma
   - Sepehr Mani
   - Ekaterina Kabin
-  - "*Ridzky Yuda*"
+  - Ridzky Yuda
   - Yixuan Dong
   - Martina Ralle
   - James P. Hamilton
@@ -23,7 +23,7 @@ authors:
   
 
 type: journal
-citation: 'Yuda, R.A.A., et al. &quot;Chronic alcohol consumption drives inflammaging and transposon derepression in hematopoietic stem and progenitor cells.&quot; <i>bioRxiv 2025</i>..'
+#citation: ''
 ---
 
 
