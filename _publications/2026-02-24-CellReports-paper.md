@@ -6,7 +6,7 @@ permalink: /publication/2026-02-24-Cell-Reports-Neutrophil
 excerpt: 'ATP7B, Copper, Neutrophils, Cebpe'
 date: 2025-12-26
 venue: 'Cell Reports, Cell Press'
-screenshot: /images/preprint_screen_shoot.png
+screenshot: /images/CellRepFront.png
 paperurl: 'https://doi.org/10.1016/j.celrep.2026.116955'
 authors:
   - Som Dev
