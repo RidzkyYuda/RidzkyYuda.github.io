@@ -7,7 +7,6 @@ excerpt: 'ATP7B, Copper, Neutrophils, Cebpe'
 date: 2026-02-24
 venue: 'Cell Reports, Cell Press'
 screenshot: /images/CellRepFront.png
-screenshot_width: 280
 paperurl: 'https://doi.org/10.1016/j.celrep.2026.116955'
 authors:
   - Som Dev
