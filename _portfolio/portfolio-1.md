@@ -1,6 +1,6 @@
 ---
 title: "ATP7B-maintained copper stores in myeloid progenitors are required for functional maturation of neutrophils"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/CellRepFront.png'>"
+excerpt: "Copper homeostasis in neutrophil maturation<br/><img src='/images/CellRepFront.png'>"
 collection: portfolio
 ---
 
@@ -15,3 +15,8 @@ fully, showing more mitochondria, fewer lysosome-like structures, lower abundanc
 reduced tubulin levels, and disrupted microtubules. Following lipopolysaccharide injection, Atp7b-deficient
 bone marrow releases fewer neutrophils into the bloodstream. Together, these findings reveal a previously
 unrecognized role of the Cu-transport network in neutrophil maturation and egress.
+
+---
+excerpt: "Copper homeostasis in neutrophil maturation<br/><img src='/images/CellRepFront.png'>"
+collection: portfolio
+---
