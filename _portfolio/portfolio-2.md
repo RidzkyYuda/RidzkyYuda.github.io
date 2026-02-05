@@ -2,7 +2,6 @@
 title: "Chronic alcohol consumption drives inflammaging and transposon derepression in hematopoietic stem and progenitor cells"
 excerpt: "Alcohol and aging effects on blood stem cells <br/><img src='/images/preprint_screen_shoot.png'>"
 collection: portfolio
-paperurl: 'https://doi.org/10.64898/2025.12.25.696246'
 ---
 **Authors** :
 **Ridzky A. A. Yuda**, Habin Bea, Valerie Kellett, Jungwoo Kim, Fan Yang, Haruna B. Choijilsuren, Yejie Park, Yaojie Fu, Zewen Ha, Juhye Choi, Li Z. Luo, Zhaoli Sun, Bin Gao, Sangmoo Jeong, Linda M. S. Resar, Moonjung Jung
