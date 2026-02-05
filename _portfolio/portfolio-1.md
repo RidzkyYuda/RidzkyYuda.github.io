@@ -4,6 +4,9 @@ excerpt: "Copper homeostasis in neutrophil maturation<br/><img src='/images/Cell
 collection: portfolio
 ---
 
+---
+excerpt: "Copper homeostasis in neutrophil maturation<br/><img src='/images/CellRepFront.png'>"
+---
 Copper (Cu) is essential for innate immunity; however, how neutrophils regulate Cu homeostasis to support
 their functions remains unclear. We found that myeloid progenitors express abundant Cu-transporter ATP7B
 targeted to distinct vesicles and store Cu in vesicles. During neutrophil differentiation, ATP7B is downregulated,
@@ -16,7 +19,4 @@ reduced tubulin levels, and disrupted microtubules. Following lipopolysaccharide
 bone marrow releases fewer neutrophils into the bloodstream. Together, these findings reveal a previously
 unrecognized role of the Cu-transport network in neutrophil maturation and egress.
 
----
-excerpt: "Copper homeostasis in neutrophil maturation<br/><img src='/images/CellRepFront.png'>"
-collection: portfolio
----
+
