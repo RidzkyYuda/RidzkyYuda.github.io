@@ -1,6 +1,6 @@
 ---
-title: "ATP7B-maintained copper stores in myeloid progenitors are required for functional maturation of neutrophils"
-excerpt: "Copper homeostasis in neutrophil maturation <br/><img src='/images/CellRepFront.png'>"
+title: "Chronic alcohol consumption drives inflammaging and transposon derepression in hematopoietic stem and progenitor cells"
+excerpt: "Alcohol and aging effects on blood stem cells <br/><img src='/images/CellRepFront.png'>"
 collection: portfolio
 external_url: https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00123-4
 ---
