@@ -1,11 +1,11 @@
 ---
 title: "ATP7B-maintained copper stores in myeloid progenitors are required for functional maturation of neutrophils"
-excerpt: "Copper homeostasis in neutrophil maturation<br/><img src='/images/CellRepFront.png'>"
+excerpt: "Copper homeostasis in neutrophil maturation<br/><img src='/images/CellRepFront2.png'>"
 collection: portfolio
 ---
 
 ---
-excerpt: "Copper homeostasis in neutrophil maturation<br/><img src='/images/CellRepFront.png'>"
+excerpt: "Copper homeostasis in neutrophil maturation<br/><img src='/images/CellReport-graphical-abstract.jpg'>"
 ---
 Copper (Cu) is essential for innate immunity; however, how neutrophils regulate Cu homeostasis to support
 their functions remains unclear. We found that myeloid progenitors express abundant Cu-transporter ATP7B
