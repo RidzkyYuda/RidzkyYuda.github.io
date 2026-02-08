@@ -2,7 +2,7 @@
 title: "Chronic alcohol consumption drives inflammaging and transposon derepression in hematopoietic stem and progenitor cells"
 excerpt: "Alcohol and aging effects on blood stem cells<br/><img src='/images/biorxiv.png'>"
 collection: portfolio
-image_width: 300
+image_width: 75
 external_url: https://www.biorxiv.org/content/10.64898/2025.12.25.696246v1.full
 ---
 **Authors** :
