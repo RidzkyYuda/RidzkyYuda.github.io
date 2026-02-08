@@ -2,7 +2,7 @@
 title: "Isolation, Ex Vivo Expansion, and Lentiviral Transduction of Alveolar Macrophages"
 excerpt: "Alveolar Macrophage Culture and Genetic Modification Protocol Identity<br/><img src='/images/MMB.png'>"
 collection: portfolio
-image_width: 300
+image_width: 75
 external_url: https://link.springer.com/protocol/10.1007/978-1-0716-3437-0_16
 ---
 **Authors** :
