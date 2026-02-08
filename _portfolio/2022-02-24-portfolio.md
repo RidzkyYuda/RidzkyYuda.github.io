@@ -2,7 +2,7 @@
 title: "Long-term culture-expanded alveolar macrophages restore their full epigenetic identity after transfer in vivo"
 excerpt: "Nature Immunology-Alveolar Macrophage Epigenetic Identity<br/><img src='/images/NI.png'>"
 collection: portfolio
-image_width: 300
+image_width: 75
 external_url: https://www.nature.com/articles/s41590-022-01146-w
 ---
 **Authors** :
