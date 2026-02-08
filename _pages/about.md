@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ---
-excerpt: "<br/><img src='/images/Welcome.png'>"
+excerpt: "<br/><img src='/images/BlogImage.png'>"
 ---
 I am a postdoctoral fellow at the Division of Hematology, Johns Hopkins University School of Medicine. As a stem cell biologist, I am intrigued by the process of how stem cells balance self-renewal and differentiation, and when that mechanisms get disrupted culminating into age-related degenerative diseases and cancers. My research aims to understand cellular and molecular (transcriptome and epigenome) mechanisms governing hematopoietic stem cell (HSC) fate decisions and macrophage self-renewal in the context of inflammation and aging.
 
