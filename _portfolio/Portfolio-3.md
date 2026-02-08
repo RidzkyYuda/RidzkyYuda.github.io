@@ -6,9 +6,7 @@ image_width: 300
 external_url: https://www.nature.com/articles/s41590-022-01146-w
 ---
 **Authors** :
-Sethuraman Subramanian, Clara Jana-Lui Busch, Kaaweh Molawi, Laufey Geirsdottir, Julien Maurizio, 
-Stephanie Vargas Aguilar, Hassiba Belahbib, Gregory Gimenez, **Ridzky Anis Advent Yuda**, Michaela Burkon, Jérémy Favret, Sara Gholamhosseinian Najjar,
-Bérengère de Laval, Prashanth Kumar Kandalla, Sandrine Sarrazin, Lena Alexopoulou, Michael H. Sieweke
+Sethuraman Subramanian, Clara Jana-Lui Busch, Kaaweh Molawi, Laufey Geirsdottir, Julien Maurizio, Stephanie Vargas Aguilar, Hassiba Belahbib, Gregory Gimenez, **Ridzky Anis Advent Yuda**, Michaela Burkon, Jérémy Favret, Sara Gholamhosseinian Najjar, Bérengère de Laval, Prashanth Kumar Kandalla, Sandrine Sarrazin, Lena Alexopoulou, Michael H. Sieweke
 ---
 excerpt: "Nature Immunology-Alveolar Macrophage Epigenetic Identity<br/><img src='/images/preprint.abstract.fig.png'>"
 collection: portfolio
