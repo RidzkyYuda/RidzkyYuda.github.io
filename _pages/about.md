@@ -4,6 +4,9 @@ title: "Ridzky Yuda"
 author_profile: true
 ---
 
+---
+excerpt: "Nature Immunology-Alveolar Macrophage Epigenetic Identity<br/><img src='/images/TrainedAM.jpg'>"
+---
 I am a postdoctoral fellow at the Division of Hematology, Johns Hopkins University School of Medicine. As a stem cell biologist, I am intrigued by the process of how stem cells balance self-renewal and differentiation, and when that mechanisms get disrupted culminating into age-related degenerative diseases and cancers. My research aims to understand cellular and molecular (transcriptome and epigenome) mechanisms governing hematopoietic stem cell (HSC) fate decisions and macrophage self-renewal in the context of inflammation and aging.
 
 During my Ph.D. training in Prof. Michael Sieweke’s lab at Technische Universität Dresden, I contributed to demonstrating that alveolar macrophages—a tissue-resident macrophage population in the lung—can undergo extensive self-renewal in culture without losing core cellular identity, and that they can be genetically engineered using lentiviral vectors.
