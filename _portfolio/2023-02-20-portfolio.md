@@ -8,7 +8,7 @@ external_url: https://link.springer.com/protocol/10.1007/978-1-0716-3437-0_16
 **Authors** :
 Clara Jana-Lui Busch, Sethuraman Subramanian, Javier Linares, Jérémy Favret, **Ridzky Anis Advent Yuda**, Michael H. Sieweke
 ---
-excerpt: "Alveolar Macrophage Culture and Genetic Modification Protocol<br/><img src='/images/MMB_graphical_abstract.jpg'>"
+excerpt: "Alveolar Macrophage Culture and Genetic Modification Protocol<br/><img src='/images/MMB_graphical_abstract.png'>"
 collection: portfolio
 ---
 
