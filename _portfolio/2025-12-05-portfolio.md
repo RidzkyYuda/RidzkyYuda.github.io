@@ -25,6 +25,6 @@ Next, we tested our hypothesis that chronic alcohol use alters open chromatin re
 
 Lastly, we performed primary (1o) and secondary (2o) competitive bone marrow transplantation (BMT) from the four groups, followed by challenge with lipopolysaccharide (LPS) (O55:B5, 5 mg/kg dose) at 4-6 weeks post 1o or at 3 months post 2o BMT. We did not observe significant differences in engraftment between the groups following secondary BMT, indicating maintained long-term self-renewal. Despite alcohol-induced myeloid bias at the end of alcohol feeding, the lineage ratio returned to baseline by the 2o transplant, albeit with a slightly higher M:L ratio in OA. However, we observed that LT-HSCs from the OA group had significantly lower EdU incorporation at 24 hours after LPS challenge, suggesting a long-lasting defect in cell cycle activation following bacterial exposure.In conclusion, our study suggests chronic alcohol use leads to the loss of epigenetic silencing on TEs, concurrently with increased myeloid transcriptional program, but without reduced long-term self-renewal capacity. However, these HSCs exhibit a long-lasting impairment in response to bacterial infection, which may contribute to the increased infectious morbidity and mortality in individuals with excessive alcohol use.
 
-
+excerpt: "Alcohol-Transposon-ASH-2026-Conference<br/><img src='/images/PosterASHPresentation.png'>"
 excerpt: "Alcohol-Transposon-ASH-2026-Conference<br/><img src='/images/AbstractAchievementAward.png'>"
 ---
