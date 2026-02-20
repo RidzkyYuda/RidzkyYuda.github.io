@@ -4,9 +4,6 @@ title: "Ridzky Yuda"
 author_profile: true
 ---
 
----
-#"<br/><img src='/images/BlogImage.png'>"
----
 ## Welcome
 
 Thank you for visiting my GitHub AcademicPages site. I created this platform to share my research portfolio, technical expertise, and ongoing projects, and to foster collaborations across academia and industry. When time permits, I write short posts that translate advances in stem cell biology and immunology into accessible language.
@@ -25,3 +22,7 @@ Overall, my expertise lies at the intersection of experimental hematology, immun
 
 
 ------
+
+---
+<br/><img src='/images/BlogImage.png'>
+---
