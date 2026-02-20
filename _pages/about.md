@@ -5,15 +5,22 @@ author_profile: true
 ---
 
 ---
-excerpt: "<br/><img src='/images/BlogImage.png'>"
+"<br/><img src='/images/BlogImage.png'>"
 ---
-I am a postdoctoral fellow at the Division of Hematology, Johns Hopkins University School of Medicine. As a stem cell biologist, I am intrigued by the process of how stem cells balance self-renewal and differentiation, and when that mechanisms get disrupted culminating into age-related degenerative diseases and cancers. My research aims to understand cellular and molecular (transcriptome and epigenome) mechanisms governing hematopoietic stem cell (HSC) fate decisions and macrophage self-renewal in the context of inflammation and aging.
+## Welcome
 
-During my Ph.D. training in Prof. Michael Sieweke’s lab at Technische Universität Dresden, I contributed to demonstrating that alveolar macrophages—a tissue-resident macrophage population in the lung—can undergo extensive self-renewal in culture without losing core cellular identity, and that they can be genetically engineered using lentiviral vectors.
+Thank you for visiting my GitHub AcademicPages site. I created this platform to share my research portfolio, technical expertise, and ongoing projects, and to connect with collaborators across academia and industry. When time permits, I also write short posts that translate recent advances in stem cell biology and immunology into accessible language.
 
-In my current postdoctoral research project, I integrate chronic alcohol feeding, LPS inflammation model and bone marrow reconstitution with single-cell multi-omics (scRNA-seq and scATAC-seq) to elucidate molecular mechanism underlying altered HSC commitment. I found that increased myeloid bias following alcohol drinking is associated with the activation of inflammatory and aging gene expression program, as well as epigenetic derepression of repetitive elements at the distal intergenic regions (Yuda et al., 2025, bioRxiv). For this work, I am supported by a prestigious postdoctoral fellowship award from the Maryland Stem Cell Research Fund (MSCRF). 
+Below is a brief overview of my background and research focus.
 
-Overall, my primary expertise is in experimental hematology equipped with capability to do bioinformatic analysis independently. To find out more about my research and publications, feel free to visit my blog website here https://ridzkyyuda.github.io/
+I am a postdoctoral fellow in the Division of Hematology at Johns Hopkins University School of Medicine. My work aims to define the molecular mechanisms that regulate stem cell fate decisions and to understand how their disruption contributes to aging-associated dysfunction and hematologic disease. I focus particularly on how inflammatory stress reshapes hematopoietic stem cell (HSC) commitment and tissue-resident macrophage self-renewal.
+
+My research integrates in vivo disease modeling with single-cell multi-omics approaches, including scRNA-seq and scATAC-seq, to resolve transcriptional and epigenetic regulatory programs at cellular resolution. I design and execute murine models such as chronic alcohol exposure, LPS-induced inflammation, and bone marrow reconstitution, and I independently develop computational pipelines to analyze and interpret high-dimensional datasets.
+
+During my Ph.D. training in the laboratory of Prof. Michael Sieweke at Technische Universität Dresden, I contributed in a collaborative study accross Franco-German institutions to demonstrating that alveolar macrophages—a lung-resident macrophage population—can undergo extensive self-renewal in vitro while maintaining core cellular identity. We further established methods to genetically engineer these cells using lentiviral vectors, expanding their utility for mechanistic and functional studies.
+
+In my current postdoctoral project, I investigate how chronic inflammatory stress alters HSC lineage commitme
+
 
 
 ------
