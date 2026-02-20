@@ -1,6 +1,6 @@
 ---
 title: " Chronic alcohol consumption epigenetically reactivates transposable elements in aged hematopoietic stem cells"
-excerpt: "Alcohol causes TE derepression at the epigenetic level<br/><img src='/images/CellRepFront3.png'>"
+excerpt: "Alcohol causes TE derepression at the epigenetic level<br/><img src='/images/Blood_Abstract_alc_2025.png'>"
 collection: portfolio 
 image_width: 75
 external_url: https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00123-4
@@ -10,7 +10,7 @@ external_url: https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00123-4
 **Ridzky Yuda**, Valerie Kellet, Fan Yang, Moonjung Jung
 
 ---
-excerpt: "Alcohol-Transposon-ASH-2026-Conference<br/><img src='/images/CellReport-graphical-abstract.jpg'>"
+excerpt: "Alcohol-Transposon-ASH-2026-Conference<br/><img src='/images/Blood_Abstract_alc_2025.png'>"
 ---
 Transposable elements (TEs) are mobile repetitive DNA sequences capable of jumping across the genome. After birth, TEs are epigenetically silenced to prevent genomic instability and inflammation, and only a subset becomes active in specific physiological contexts. We previously presented that chronic alcohol use exacerbates inflammatory and aging gene expression programs in aged hematopoietic stem cells (HSCs). However, it remains unclear if chronic alcohol use causes epigenetic reactivation of TEs, and if chronic alcohol use impairs HSCs' self-renewal or responses to bacterial infection.
 
