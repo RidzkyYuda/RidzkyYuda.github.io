@@ -12,6 +12,11 @@ external_url: https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00123-4
 ---
 excerpt: "Alcohol-Transposon-ASH-2026-Conference<br/><img src='/images/Blood_Abstract_alc_2025.png'>"
 ---
+
+---
+**ABSTRACT**
+---
+
 Transposable elements (TEs) are mobile repetitive DNA sequences capable of jumping across the genome. After birth, TEs are epigenetically silenced to prevent genomic instability and inflammation, and only a subset becomes active in specific physiological contexts. We previously presented that chronic alcohol use exacerbates inflammatory and aging gene expression programs in aged hematopoietic stem cells (HSCs). However, it remains unclear if chronic alcohol use causes epigenetic reactivation of TEs, and if chronic alcohol use impairs HSCs' self-renewal or responses to bacterial infection.
 
 To answer those questions, we fed young (2 months) and old (22 months) C57BL/6N mice with 5% (v/v) alcohol or isocaloric control liquid diet for 4-5 weeks (4 groups: young control (YC), young alcohol (YA), old control (OC) and old alcohol (OA)). We observed that the OA group exhibited a significant myeloid bias and heightened inflammation compared to other groups. In agreement, neutrophil and monocyte differentiation scores were significantly higher in that group, even from the most undifferentiated HSC populations, suggesting that chronic alcohol use disrupts HSC lineage commitment. Several myeloid pioneering transcription factors (TFs), such as PU.1 (Spi1), CCAAT/Enhancer binding protein family (Cebpa, Cebpb, Cebpd) and interferon-regulated factor 8 (Irf8), were elevated in HSC and MPP subpopulations. Chronic alcohol exposure also increased the fraction of cycling (Ki67+) LT-HSCs in old, but not in young mice. Likewise, γH2AX intensity was the highest in the OA group compared with other groups.
@@ -20,3 +25,7 @@ Next, we tested our hypothesis that chronic alcohol use alters open chromatin re
 
 Lastly, we performed primary (1o) and secondary (2o) competitive bone marrow transplantation (BMT) from the four groups, followed by challenge with lipopolysaccharide (LPS) (O55:B5, 5 mg/kg dose) at 4-6 weeks post 1o or at 3 months post 2o BMT. We did not observe significant differences in engraftment between the groups following secondary BMT, indicating maintained long-term self-renewal. Despite alcohol-induced myeloid bias at the end of alcohol feeding, the lineage ratio returned to baseline by the 2o transplant, albeit with a slightly higher M:L ratio in OA. However, we observed that LT-HSCs from the OA group had significantly lower EdU incorporation at 24 hours after LPS challenge, suggesting a long-lasting defect in cell cycle activation following bacterial exposure.In conclusion, our study suggests chronic alcohol use leads to the loss of epigenetic silencing on TEs, concurrently with increased myeloid transcriptional program, but without reduced long-term self-renewal capacity. However, these HSCs exhibit a long-lasting impairment in response to bacterial infection, which may contribute to the increased infectious morbidity and mortality in individuals with excessive alcohol use.
 
+
+---
+excerpt: "Alcohol-Transposon-ASH-2026-Conference<br/><img src='/images/AbstractAchievementAward.png'>"
+---
