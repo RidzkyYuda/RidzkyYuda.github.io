@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ---
-"<br/><img src='/images/BlogImage.png'>"
+#"<br/><img src='/images/BlogImage.png'>"
 ---
 ## Welcome
 
