@@ -10,7 +10,7 @@ external_url: https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00123-4
 **Ridzky Yuda**, Valerie Kellet, Fan Yang, Moonjung Jung
 
 ---
-excerpt: "Alcohol-Transposon-ASH-2026-Conference<br/><img src='/images/Blood_Abstract_alc_2025.png'>"
+excerpt: "<br/><img src='/images/Blood_Abstract_alc_2025.png'>"
 ---
 
 ---
