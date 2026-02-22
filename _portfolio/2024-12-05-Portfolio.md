@@ -1,5 +1,5 @@
 ---
-title: " Chronic alcohol consumption epigenetically reactivates transposable elements in aged hematopoietic stem cells"
+title: "Combinatorial Effect of Chronic Alcohol Drinking and Age Perpetuates Myeloid-Biased Hematopoiesis Via Hematopoietic Stem Cell Senescence"
 excerpt: "Alcohol and aging synergistically cause HSC senescence level<br/><img src='/images/Blood_abstract2024.png'>"
 collection: portfolio 
 image_width: 75
