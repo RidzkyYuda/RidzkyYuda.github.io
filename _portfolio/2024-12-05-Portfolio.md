@@ -1,6 +1,6 @@
 ---
 title: " Chronic alcohol consumption epigenetically reactivates transposable elements in aged hematopoietic stem cells"
-excerpt: "Alcohol and aging synergistically cause HSC senescence level<br/><img src='/images/2024-12-06-blood-abstract.png'>"
+excerpt: "Alcohol and aging synergistically cause HSC senescence level<br/><img src='/images/Blood_abstract2024.png'>"
 collection: portfolio 
 image_width: 75
 external_url: https://doi.org/10.1182/blood-2024-211006
@@ -11,7 +11,7 @@ external_url: https://doi.org/10.1182/blood-2024-211006
 *Ridzky Anis Advent Yuda**, Valerie Kellet, Haruna B. Choijilsuren, Zewen Ha, Fan Yang, Moonjung Jung
 
 ---
-excerpt: "Alcohol and Aging cause HSC senescence ASH Conference<br/><img src='/images/2024-12-06-blood-abstract.png'>"
+excerpt: "Alcohol and Aging cause HSC senescence ASH Conference<br/><img src='/images/Blood_abstract2024.png'>"
 ---
 
 ---
