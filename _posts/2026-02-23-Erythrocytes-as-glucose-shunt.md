@@ -12,7 +12,7 @@ permalink: /posts/2026/02/Erythrocytes-as-glucose-shunt/
 
 Epidemiological studies have reported an inverse correlation between living at high altitude and the prevalence of diabetes. High-altitude environments expose residents to multiple environmental stressors, including reduced oxygen availability, increased ultraviolet (UV) radiation, and lower temperatures. However, the mechanisms underlying the lower incidence of diabetes among high-altitude populations have remained unclear.
 
-In a recent study published in Cell Metabolism, a research group led by Isha Jain at the University of California, San Francisco (UCSF) uncovered a potential explanation. The team demonstrated that erythrocytes function as a glucose “shunt” during hypoxia-induced hypoglycemia. Using C57BL/6J mice housed under normoxic (21% O₂) or hypoxic (8% O₂) conditions for 14 days, the researchers observed significantly lower blood glucose levels in mice exposed to hypoxia (Fig. 1A). Moreover, hypoxic mice displayed improved glucose tolerance, and this metabolic benefit persisted for months after the animals were returned to normoxic conditions (Fig. 1B). Notably, this phenotype did not depend on enhanced insulin signaling but instead appeared to result from a systemic physiological adaptation.
+In a recent study published in Cell Metabolism (Marti-Mateos et al., 2026., _Cell Metabolism_), a research group led by Isha Jain at the University of California, San Francisco (UCSF) uncovered a potential explanation. The team demonstrated that erythrocytes function as a glucose “shunt” during hypoxia-induced hypoglycemia. Using C57BL/6J mice housed under normoxic (21% O₂) or hypoxic (8% O₂) conditions for 14 days, the researchers observed significantly lower blood glucose levels in mice exposed to hypoxia (Fig. 1A). Moreover, hypoxic mice displayed improved glucose tolerance, and this metabolic benefit persisted for months after the animals were returned to normoxic conditions (Fig. 1B). Notably, this phenotype did not depend on enhanced insulin signaling but instead appeared to result from a systemic physiological adaptation.
 
 ---
 "<br/><img src='/images/RBC_paper_fig1.jpg'>"
@@ -53,5 +53,12 @@ Finally, the team explored the translational implications of hypoxia-induced ery
 **Fig. 4** Preclinical model to test translational application of hypoxia-induced erythrocytosis in diabetes
 ---
 
+---
+**Conclussion and Study Limitations**
+---
 Overall, this study establishes the importance of hypoxia-induced erythrocytosis in lowering blood glucose levels, providing a mechanistic explanation for the association between high-altitude living and reduced diabetes incidence. Nevertheless, several limitations remain. The experiments were conducted in the C57BL/6J strain, which has known metabolic characteristics that may influence glucose homeostasis; validation in additional mouse strains will be important. Aging, which is associated with reduced erythropoiesis, was not examined and may significantly impact this phenotype, particularly given the increased prevalence of diabetes with advancing age. Furthermore, the mechanisms driving increased glucose transporter expression in erythrocytes generated under hypoxic conditions were not addressed and may originate from alterations at the level of erythroid progenitor cells.
 
+Link to the publication below
+---
+permalink: https://doi.org/10.1016/j.cmet.2026.01.019 
+---
