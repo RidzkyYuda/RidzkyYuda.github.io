@@ -14,6 +14,14 @@ Epidemiological studies have reported an inverse correlation between living at h
 
 In a recent study published in Cell Metabolism, a research group led by Isha Jain at the University of California, San Francisco (UCSF) uncovered a potential explanation. The team demonstrated that erythrocytes function as a glucose “shunt” during hypoxia-induced hypoglycemia. Using C57BL/6J mice housed under normoxic (21% O₂) or hypoxic (8% O₂) conditions for 14 days, the researchers observed significantly lower blood glucose levels in mice exposed to hypoxia (Fig. 1A). Moreover, hypoxic mice displayed improved glucose tolerance, and this metabolic benefit persisted for months after the animals were returned to normoxic conditions (Fig. 1B). Notably, this phenotype did not depend on enhanced insulin signaling but instead appeared to result from a systemic physiological adaptation.
 
+---
+"<br/><img src='/images/RBC_paper_fig1.jpg'>"
+---
+
+---
+**Fig. 1** Shows evidence of hypoxia-induced hypoglycemia in animal model
+---
+
 Erythrocytes are the most abundant cells in the body and rely primarily on the pentose phosphate pathway (PPP) and the Embden–Meyerhof–Parnas (EMP) glycolytic pathway due to their lack of mitochondria. Because hypoxic exposure increases both erythrocyte numbers and their glycolytic activity, the researchers hypothesized that erythrocytes may act as a glucose sink during hypoxia.
 To test this, the team performed serial phlebotomy every three days to induce anemia—thereby reducing erythrocyte numbers—in both normoxic and hypoxic mice. By withdrawing up to 15% of total blood volume (TBV), they asked whether decreasing erythrocyte abundance would attenuate the hypoxia-induced reduction in blood glucose levels. Indeed, repetitive blood withdrawal blunted the hypoglycemic effect and reversed the improved glucose tolerance observed in hypoxia-exposed mice. Importantly, this intervention did not significantly alter other hematological parameters aside from erythrocyte counts, supporting the idea that increased erythrocyte abundance directly contributes to systemic glucose lowering.
 
@@ -22,7 +30,7 @@ To test this, the team performed serial phlebotomy every three days to induce an
 ---
 
 ---
-Fig. 2 Shows the effect of changing RBC level via phlebotomy and transfusion affect glucose response in hypoxia mice
+**Fig. 2** Shows the direct proof of hypoxia-induced erythrocytosis in promoting blood glucose reduction
 ---
 
 Next, the team performed an elegant red blood cell (RBC) transfusion experiment, transferring erythrocytes isolated from either hypoxic- or normoxic-housed mice into recipient animals to further dissect the causal role of elevated erythrocytes in mediating this metabolic adaptation. Interestingly, both transfusion groups exhibited hypoglycemia, with a slightly greater effect observed in mice receiving hypoxic RBCs. This finding suggests that not only increased erythrocyte number, but also cell-intrinsic phenotypic changes in hypoxic RBCs, contribute to glucose lowering. Radioactive tracing experiments using carbon-13–labeled 2-deoxy-D-glucose (U-¹³C 2DG) revealed increased glucose uptake by hypoxic erythrocytes. This was corroborated by elevated expression of glucose transporters GLUT1 and GLUT4. The absorbed glucose was preferentially funneled into glycolysis under hypoxic conditions.
