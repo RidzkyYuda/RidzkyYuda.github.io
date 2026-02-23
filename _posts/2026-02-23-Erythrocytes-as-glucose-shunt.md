@@ -20,6 +20,7 @@ To test this, the team performed serial phlebotomy every three days to induce an
 ---
 "<br/><img src='/images/RBC_paper_fig2.jpg'>"
 ---
+
 ---
 Fig. 2 Shows the effect of changing RBC level via phlebotomy and transfusion affect glucose response in hypoxia mice
 ---
