@@ -43,7 +43,7 @@ Next, the team performed an elegant red blood cell (RBC) transfusion experiment,
 **Fig. 3** Glucose reduction is an erythrocyte intrinsic mechanisms via glucose transporter upregulation
 ---
 
-Finally, the team explored the translational implications of hypoxia-induced erythrocyte glucose uptake. First, they examined whether hypoxia could ameliorate hyperglycemia in streptozotocin (STZ)-induced diabetic mice. Hypoxia exposure led to erythrocytosis, reduced blood glucose levels, and improved glucose tolerance in STZ-treated animals. Second, in a cell therapy–like approach, transfusion of hypoxic RBCs into STZ-induced diabetic mice attenuated hyperglycemia. Lastly, the authors tested a small molecule, HypoxyStat, which reduces oxygen offloading into tissues and thereby induces localized tissue hypoxia. Treatment with HypoxyStat reduced hyperglycemia in mice fed a high-fat diet (HFD).
+Finally, the authors explored the translational implications of hypoxia-induced erythrocyte glucose uptake. First, they examined whether hypoxia could ameliorate hyperglycemia in streptozotocin (STZ)-induced diabetic mice. Hypoxia exposure led to erythrocytosis, reduced blood glucose levels, and improved glucose tolerance in STZ-treated animals. Second, in a cell therapy–like approach, transfusion of hypoxic RBCs into STZ-induced diabetic mice attenuated hyperglycemia. Lastly, the authors tested a small molecule, HypoxyStat, which reduces oxygen offloading into tissues and thereby induces localized tissue hypoxia. Treatment with HypoxyStat reduced hyperglycemia in mice fed a high-fat diet (HFD).
 
 ---
 "<br/><img src='/images/RBC_paper_fig4.jpg'>"
