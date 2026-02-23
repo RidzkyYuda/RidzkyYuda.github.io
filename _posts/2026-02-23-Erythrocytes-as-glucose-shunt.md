@@ -6,7 +6,7 @@ permalink: /posts/2026/02/Erythrocytes-as-glucose-shunt/
 ---
 
 ---
-excerpt: "<br/><img src='/images/RBC_paper_abstract.jpg'>"
+"<br/><img src='/images/RBC_paper_abstract.jpg'>"
 ---
 
 
