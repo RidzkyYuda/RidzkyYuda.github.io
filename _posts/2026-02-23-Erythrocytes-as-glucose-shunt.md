@@ -35,7 +35,23 @@ To test this, the team performed serial phlebotomy every three days to induce an
 
 Next, the team performed an elegant red blood cell (RBC) transfusion experiment, transferring erythrocytes isolated from either hypoxic- or normoxic-housed mice into recipient animals to further dissect the causal role of elevated erythrocytes in mediating this metabolic adaptation. Interestingly, both transfusion groups exhibited hypoglycemia, with a slightly greater effect observed in mice receiving hypoxic RBCs. This finding suggests that not only increased erythrocyte number, but also cell-intrinsic phenotypic changes in hypoxic RBCs, contribute to glucose lowering. Radioactive tracing experiments using carbon-13–labeled 2-deoxy-D-glucose (U-¹³C 2DG) revealed increased glucose uptake by hypoxic erythrocytes. This was corroborated by elevated expression of glucose transporters GLUT1 and GLUT4. The absorbed glucose was preferentially funneled into glycolysis under hypoxic conditions.
 
+---
+"<br/><img src='/images/RBC_paper_fig3.jpg'>"
+---
+
+---
+**Fig. 3** Glucose reduction is an erythrocyte intrinsic mechanisms via glucose transporter upregulation
+---
+
 Finally, the team explored the translational implications of hypoxia-induced erythrocyte glucose uptake. First, they examined whether hypoxia could ameliorate hyperglycemia in streptozotocin (STZ)-induced diabetic mice. Hypoxia exposure led to erythrocytosis, reduced blood glucose levels, and improved glucose tolerance in STZ-treated animals. Second, in a cell therapy–like approach, transfusion of hypoxic RBCs into STZ-induced diabetic mice attenuated hyperglycemia. Lastly, the authors tested a small molecule, HypoxyStat, which reduces oxygen offloading into tissues and thereby induces localized tissue hypoxia. Treatment with HypoxyStat reduced hyperglycemia in mice fed a high-fat diet (HFD).
+
+---
+"<br/><img src='/images/RBC_paper_fig4.jpg'>"
+---
+
+---
+**Fig. 4** Preclinical model to test translational application of hypoxia-induced erythrocytosis in diabetes
+---
 
 Overall, this study establishes the importance of hypoxia-induced erythrocytosis in lowering blood glucose levels, providing a mechanistic explanation for the association between high-altitude living and reduced diabetes incidence. Nevertheless, several limitations remain. The experiments were conducted in the C57BL/6J strain, which has known metabolic characteristics that may influence glucose homeostasis; validation in additional mouse strains will be important. Aging, which is associated with reduced erythropoiesis, was not examined and may significantly impact this phenotype, particularly given the increased prevalence of diabetes with advancing age. Furthermore, the mechanisms driving increased glucose transporter expression in erythrocytes generated under hypoxic conditions were not addressed and may originate from alterations at the level of erythroid progenitor cells.
 
