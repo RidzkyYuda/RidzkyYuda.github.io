@@ -1,12 +1,12 @@
 ---
 title: 'Red blood cells serve as important glucose sink in high altitude-induced glucose tolerance'
 date: 2026-02-23
-excerpt: "<br/><img src='/images/RBC_paper_abstract.jpeg'>"
+excerpt: "<br/><img src='/images/RBC_paper_abstract.jpg'>"
 permalink: /posts/2026/02/Erythrocytes-as-glucose-shunt/
 ---
 
 ---
-excerpt: "<br/><img src='/images/RBC_paper_abstract.jpeg'>"
+excerpt: "<br/><img src='/images/RBC_paper_abstract.jpg'>"
 ---
 
 
