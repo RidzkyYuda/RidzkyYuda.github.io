@@ -24,3 +24,5 @@ reduced tubulin levels, and disrupted microtubules. Following lipopolysaccharide
 bone marrow releases fewer neutrophils into the bloodstream. Together, these findings reveal a previously
 unrecognized role of the Cu-transport network in neutrophil maturation and egress.
 
+---
+The publication can be found [here](https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00033-1)
