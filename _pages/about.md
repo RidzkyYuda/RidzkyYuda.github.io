@@ -4,11 +4,11 @@ title: "Ridzky Yuda"
 author_profile: true
 ---
 
-## Welcome/Willkomen/Selamat Datang
+## Welcome / Willkomen / Selamat Datang
 
 Thank you for visiting my GitHub AcademicPages site. I created this platform to share my research [Portfolio](https://ridzkyyuda.github.io/portfolio/), technical expertise, and ongoing projects highlighted in my [CV](https://ridzkyyuda.github.io/cv/), and to foster collaborations across academia and industry. When time permits, I write short [Blogpost](https://ridzkyyuda.github.io/year-archive/) that translate advances in stem cell biology and immunology into accessible language.
 
-## About Me/Über Mich/Tentang Saya
+## About Me / Über Mich / Tentang Saya
 
 ---
 Trained as a stem cell and immunobiologist, I have conducted biomedical research across premier institutions in Europe and the United States, gaining broad expertise in both fundamental and translational science. My research aims to define the molecular mechanisms that regulate stem cell fate decisions and to determine how their disruption contributes to aging-associated dysfunction and hematologic disease. I am particularly interested in how inflammatory stress reshapes hematopoietic stem cell (HSC) commitment and tissue-resident macrophage self-renewal.
