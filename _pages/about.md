@@ -6,7 +6,7 @@ author_profile: true
 
 ## Welcome
 
-Thank you for visiting my GitHub AcademicPages site. I created this platform to share my research [Portfolio](https://ridzkyyuda.github.io/year-archive/), technical expertise, and ongoing projects, and to foster collaborations across academia and industry. When time permits, I write short [Blogpost](/Blog/) that translate advances in stem cell biology and immunology into accessible language.
+Thank you for visiting my GitHub AcademicPages site. I created this platform to share my research [Portfolio](https://ridzkyyuda.github.io/portfolio/), [technical expertise, and ongoing projects](https://ridzkyyuda.github.io/cv/), and to foster collaborations across academia and industry. When time permits, I write short [Blogpost](https://ridzkyyuda.github.io/year-archive/) that translate advances in stem cell biology and immunology into accessible language.
 
 ## My Profile
 
