@@ -63,5 +63,5 @@ Aging was not examined in this study, despite its well-established association w
 Although multiple experimental approaches in this study highlight the therapeutic potential of leveraging hypoxia to ameliorate hyperglycemia, the possible adverse consequences of activating hypoxia pathways were not addressed. Chronic or systemic hypoxia can exacerbate pathological conditions such as cancer and inflammatory diseases, both of which are known to thrive in hypoxic microenvironments. Careful evaluation of safety, dosing, and context-specific effects will therefore be critical before considering hypoxia-based strategies for diabetes treatment.
 
 ---
-The paper can be found [here](https://doi.org/10.1016/j.cmet.2026.01.019)
+
 
