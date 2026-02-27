@@ -9,6 +9,7 @@ external_url: https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00123-4
 **Authors** :
 Som Dev, Yu Wang, Moonjung Jung, Yingze Ma, Sepehr Mani, Ekaterina Kabin, **Ridzky Yuda**, Yixuan Dong, Martina Ralle, James P. Hamilton, Svetlana Lutsenko
 
+Journal: Cell Reports, 45(2), 2026 
 ---
 excerpt: "Copper homeostasis in neutrophil maturation<br/><img src='/images/CellReport-graphical-abstract.jpg'>"
 ---
