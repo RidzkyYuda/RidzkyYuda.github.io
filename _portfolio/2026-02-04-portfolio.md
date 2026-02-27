@@ -11,7 +11,7 @@ Som Dev, Yu Wang, Moonjung Jung, Yingze Ma, Sepehr Mani, Ekaterina Kabin, **Ridz
 
 Journal: Cell Reports, 45(2), 2026 
 ---
-excerpt: "Copper homeostasis in neutrophil maturation<br/><img src='/images/CellReport-graphical-abstract.jpg'>"
+"Copper homeostasis in neutrophil maturation<br/><img src='/images/CellReport-graphical-abstract.jpg'>"
 ---
 Copper (Cu) is essential for innate immunity; however, how neutrophils regulate Cu homeostasis to support
 their functions remains unclear. We found that myeloid progenitors express abundant Cu-transporter ATP7B
