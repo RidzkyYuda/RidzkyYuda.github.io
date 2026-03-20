@@ -30,7 +30,3 @@ Overall, my expertise lies at the intersection of experimental hematology, immun
 
 
 ------
-
----
-<br/><img src='/images/BlogImage.png'>
----
