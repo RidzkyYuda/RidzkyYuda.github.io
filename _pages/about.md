@@ -11,9 +11,16 @@ Thank you for visiting my GitHub AcademicPages site. I created this platform to 
 ## About Me
 
 ---
-Trained as a stem cell and immunobiologist, I have conducted biomedical research across premier institutions in Europe and the United States, gaining broad expertise in both fundamental and translational science. My research aims to define the molecular mechanisms that regulate stem cell fate decisions and to determine how their disruption contributes to aging-associated dysfunction and hematologic disease. I am particularly interested in how inflammatory stress reshapes hematopoietic stem cell (HSC) commitment and tissue-resident macrophage self-renewal.
+Trained as a stem cell and immunobiologist, I have conducted biomedical research across premier institutions in Europe and the United States, gaining broad expertise in both fundamental and translational science. My research aims to define the molecular mechanisms that regulate stem cell fate decisions and to determine how their disruption contributes to aging-associated dysfunction and hematologic disease. I am particularly interested in how inflammatory stress reshapes hematopoietic stem cell (HSC) commitment during aging (Fig.1).
 
 My work integrates in vivo disease modeling with single-cell multi-omics approaches, including scRNA-seq and scATAC-seq, to resolve transcriptional and epigenetic regulatory programs at cellular resolution. I design and execute murine models such as chronic alcohol exposure, LPS-induced inflammation, and bone marrow reconstitution, and I independently develop computational pipelines to analyze and interpret high-dimensional datasets.
+
+---
+"<br/><img src='/images/InflammationHSC.jpg'>"
+---
+---
+**Fig. 1** Research aims
+---
 
 During my Ph.D. training in the laboratory of [Prof. Michael Sieweke](https://tu-dresden.de/cmcb/crtd/forschungsgruppen/crtd-forschungsgruppen/sieweke) at Technische Universität Dresden, Germany, I was involved in a collaborative [research](https://www.nature.com/articles/s41590-022-01146-w) across French and German research institutions (Centre d’Immunologie de Marseille-Luminy, Center for Regenerative Therapies Dresden, and the Max Delbrück Center for Molecular Medicine in Berlin) demonstrating that alveolar macrophages—a lung-resident macrophage population—can undergo extensive self-renewal in vitro while maintaining their core cellular identity. We further established [methods](https://link.springer.com/protocol/10.1007/978-1-0716-3437-0_16) to genetically engineer these cells using lentiviral vectors, expanding their utility for mechanistic and translational studies.
 
