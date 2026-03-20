@@ -16,7 +16,7 @@ Trained as a stem cell and immunobiologist, I have conducted biomedical research
 My work integrates in vivo disease modeling with single-cell multi-omics approaches, including scRNA-seq and scATAC-seq, to resolve transcriptional and epigenetic regulatory programs at cellular resolution. I design and execute murine models such as chronic alcohol exposure, LPS-induced inflammation, and bone marrow reconstitution, and I independently develop computational pipelines to analyze and interpret high-dimensional datasets.
 
 ---
-"<br/><img src='/images/InflammationHSC.jpg'>"
+<br/><img src='/images/InflammationHSC.jpg'>
 ---
 ---
 **Fig. 1** Research aims
