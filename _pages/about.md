@@ -18,9 +18,9 @@ My work integrates in vivo disease modeling with single-cell multi-omics approac
 ---
 <br/><img src='/images/InflammationHSC.jpg'>
 ---
----
+
 **Fig. 1** My long-term research goal to investigate the impact of age-associated molecular changes in underlying stem cell behavioural changes
----
+
 
 During my Ph.D. training in the laboratory of [Prof. Michael Sieweke](https://tu-dresden.de/cmcb/crtd/forschungsgruppen/crtd-forschungsgruppen/sieweke) at Technische Universität Dresden, Germany, I was involved in a collaborative [research](https://www.nature.com/articles/s41590-022-01146-w) across French and German research institutions (Centre d’Immunologie de Marseille-Luminy, Center for Regenerative Therapies Dresden, and the Max Delbrück Center for Molecular Medicine in Berlin) demonstrating that alveolar macrophages—a lung-resident macrophage population—can undergo extensive self-renewal in vitro while maintaining their core cellular identity. We further established [methods](https://link.springer.com/protocol/10.1007/978-1-0716-3437-0_16) to genetically engineer these cells using lentiviral vectors, expanding their utility for mechanistic and translational studies.
 
