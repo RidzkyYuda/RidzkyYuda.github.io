@@ -29,9 +29,9 @@ In my current postdoctoral project, I investigate [how chronic inflammatory stre
 ---
 <br/><img src='/images/AlcoholInflammation.jpg'>
 ---
----
+
 **Fig. 2** Aging amplifies transposable element–associated inflammatory myeloid bias in HSCs under chronic alcohol exposure
----
+
 
 For my postdoctoral work focusing on epigenetic regulation of alcohol-induced inflammation in HSCs, I was awarded an independent and competitive [fellowship grant](https://www.mscrf.org/awardees) from Maryland Stem Cell Research Fund (MSCRF). Furthermore, my work also extends to [neutrophil biology](https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00033-1), where I am currently involved in a collaboration with the lab of [Prof. Lutsenko](https://pages.jh.edu/lutsenkolab/) at Johns Hopkins University by providing my expertise on multiparameter spectral flow cytometry analysis of myeloid cells. 
 
