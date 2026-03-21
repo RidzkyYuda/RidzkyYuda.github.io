@@ -25,12 +25,14 @@ My work integrates in vivo disease modeling with single-cell multi-omics approac
 During my Ph.D. training in the laboratory of [Prof. Michael Sieweke](https://tu-dresden.de/cmcb/crtd/forschungsgruppen/crtd-forschungsgruppen/sieweke) at Technische Universität Dresden, Germany, I was involved in a collaborative [research](https://www.nature.com/articles/s41590-022-01146-w) across French and German research institutions (Centre d’Immunologie de Marseille-Luminy, Center for Regenerative Therapies Dresden, and the Max Delbrück Center for Molecular Medicine in Berlin) demonstrating that alveolar macrophages—a lung-resident macrophage population—can undergo extensive self-renewal in vitro while maintaining their core cellular identity. We further established [methods](https://link.springer.com/protocol/10.1007/978-1-0716-3437-0_16) to genetically engineer these cells using lentiviral vectors, expanding their utility for mechanistic and translational studies.
 
 In my current postdoctoral project, I investigate [how chronic inflammatory stress alters HSC lineage commitment](https://www.biorxiv.org/content/10.64898/2025.12.25.696246v1.full). Using integrative single-cell transcriptomic and epigenomic profiling, I examine how inflammatory and aging-associated gene expression programs are activated and how epigenetic regulation is remodeled under sustained stress conditions. 
+
 ---
 <br/><img src='/images/AlcoholInflammation.jpg'>
 ---
 ---
 **Fig. 2** Aging amplifies transposable element–associated inflammatory myeloid bias in HSCs under chronic alcohol exposure
 ---
+
 For my postdoctoral work focusing on epigenetic regulation of alcohol-induced inflammation in HSCs, I was awarded an independent and competitive [fellowship grant](https://www.mscrf.org/awardees) from Maryland Stem Cell Research Fund (MSCRF). Furthermore, my work also extends to [neutrophil biology](https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00033-1), where I am currently involved in a collaboration with the lab of [Prof. Lutsenko](https://pages.jh.edu/lutsenkolab/) at Johns Hopkins University by providing my expertise on multiparameter spectral flow cytometry analysis of myeloid cells. 
 
 Overall, my expertise lies at the intersection of experimental hematology, immunology, and integrative genomics. I combine rigorous in vivo experimentation with independent bioinformatic analysis to generate mechanistic insight from complex biological systems.
