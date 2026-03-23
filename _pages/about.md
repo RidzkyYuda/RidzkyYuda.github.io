@@ -13,20 +13,22 @@ Thank you for visiting my GitHub AcademicPages site. I created this platform to 
 ---
 Trained as a stem cell and immunobiologist, I have conducted biomedical research across premier institutions in Europe and the United States, gaining broad expertise in both fundamental and translational science. My research aims to define the molecular mechanisms that regulate stem cell fate decisions and to determine how their disruption contributes to aging-associated dysfunction and hematologic disease. I am particularly interested in how inflammatory stress reshapes hematopoietic stem cell (HSC) commitment during aging (**Fig.1**).
 
----
+
 <br/><img src='/images/InflammationHSC.jpg'>
----
+
 
 **Fig. 1** My long-term research goal to investigate the impact of age-associated molecular changes in underlying stem cell behavioural changes
 
 
 During my Ph.D. training in the laboratory of [Prof. Michael Sieweke](https://tu-dresden.de/cmcb/crtd/forschungsgruppen/crtd-forschungsgruppen/sieweke) at Technische Universität Dresden, Germany, I was involved in a collaborative [research](https://www.nature.com/articles/s41590-022-01146-w) across French and German research institutions (Centre d’Immunologie de Marseille-Luminy, Center for Regenerative Therapies Dresden, and the Max Delbrück Center for Molecular Medicine in Berlin) demonstrating that alveolar macrophages—a lung-resident macrophage population—can undergo extensive self-renewal in vitro while maintaining their core cellular identity. We further established [methods](https://link.springer.com/protocol/10.1007/978-1-0716-3437-0_16) to genetically engineer these cells using lentiviral vectors, expanding their utility for mechanistic and translational studies.
 
+<br/><img src='/images/My_phd_works.jpg'>
+
 In my current postdoctoral project, I integrate in vivo disease modeling with single-cell multi-omics approaches, including scRNA-seq and scATAC-seq, to resolve transcriptional and epigenetic regulatory programs at cellular resolution. I design and execute murine models such as chronic alcohol exposure, LPS-induced inflammation, and bone marrow reconstitution, and I independently develop computational pipelines to analyze and interpret high-dimensional datasets. I found [how chronic inflammatory stress alters HSC lineage commitment](https://www.biorxiv.org/content/10.64898/2025.12.25.696246v1.full) via sustained inflammation induced by epigenetic derepression of transposable elements (TEs) amplified by aging (**Fig. 2**). 
 
----
+
 <br/><img src='/images/AlcoholInflammation.jpg'>
----
+
 
 **Fig. 2** Aging amplifies transposable element–associated inflammatory myeloid bias in HSCs under chronic alcohol exposure
 
