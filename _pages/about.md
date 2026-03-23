@@ -25,6 +25,9 @@ During my Ph.D. training in the laboratory of [Prof. Michael Sieweke](https://tu
 <br/><img src='/images/My_phd_works2.jpg'>
 **Fig. 2** (A) Epigenetic identity maintenance of self-renewing macrophages. (B) Methods to genetically manipulate alveolar macrophages. 
 
+<br/><img src='/images/PhDdefense.jpg'>
+**Fig. 3** Photograph after my My Ph.D. defense
+
 In my current postdoctoral project, I integrate in vivo disease modeling with single-cell multi-omics approaches, including scRNA-seq and scATAC-seq, to resolve transcriptional and epigenetic regulatory programs at cellular resolution. I design and execute murine models such as chronic alcohol exposure, LPS-induced inflammation, and bone marrow reconstitution, and I independently develop computational pipelines to analyze and interpret high-dimensional datasets. I found [how chronic inflammatory stress alters HSC lineage commitment](https://www.biorxiv.org/content/10.64898/2025.12.25.696246v1.full) via sustained inflammation induced by epigenetic derepression of transposable elements (TEs) amplified by aging (**Fig. 3**). 
 
 
