@@ -20,10 +20,12 @@ Trained as a stem cell and immunobiologist, I have conducted biomedical research
 **Fig. 1** My long-term research goal to investigate the impact of age-associated molecular changes in underlying stem cell behavioural changes
 
 
-During my Ph.D. training in the laboratory of [Prof. Michael Sieweke](https://tu-dresden.de/cmcb/crtd/forschungsgruppen/crtd-forschungsgruppen/sieweke) at Technische Universität Dresden, Germany (**Fig. 2**), I was involved in a collaborative [research](https://www.nature.com/articles/s41590-022-01146-w) across French and German research institutions (Centre d’Immunologie de Marseille-Luminy, Center for Regenerative Therapies Dresden, and the Max Delbrück Center for Molecular Medicine in Berlin) demonstrating that alveolar macrophages—a lung-resident macrophage population—can undergo extensive self-renewal in vitro while maintaining their core cellular identity (**Fig. 3**). We further established [methods](https://link.springer.com/protocol/10.1007/978-1-0716-3437-0_16) to genetically engineer these cells using lentiviral vectors, expanding their utility for mechanistic and translational studies (**Fig. 3**).
+My scientific endeavour on stem cell and macrophage biology aging had started when I did my Ph.D. training in the laboratory of prominent HSC and macrophage biologist, [Prof. Michael Sieweke](https://tu-dresden.de/cmcb/crtd/forschungsgruppen/crtd-forschungsgruppen/sieweke), at Technische Universität Dresden, Germany (**Fig. 2**). 
 
 <br/><img src='/images/PhDdefense.jpg'>
 **Fig. 2** Photograph with my incredible and inspiring mentor, Prof. Michael Sieweke, after my succesful thesis defense and rigorosum
+
+I was involved in a collaborative [research](https://www.nature.com/articles/s41590-022-01146-w) across French and German research institutions (Centre d’Immunologie de Marseille-Luminy, Center for Regenerative Therapies Dresden, and the Max Delbrück Center for Molecular Medicine in Berlin) demonstrating that alveolar macrophages—a lung-resident macrophage population—can undergo extensive self-renewal in vitro while maintaining their core cellular identity (**Fig. 3**). We further established [methods](https://link.springer.com/protocol/10.1007/978-1-0716-3437-0_16) to genetically engineer these cells using lentiviral vectors, expanding their utility for mechanistic and translational studies (**Fig. 3**).
 
 <br/><img src='/images/My_phd_works2.jpg'>
 **Fig. 3** (A) Epigenetic identity maintenance of self-renewing macrophages. (B) Methods to genetically manipulate alveolar macrophages. 
