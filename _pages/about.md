@@ -33,12 +33,15 @@ In my current postdoctoral project, I integrate in vivo disease modeling with si
 
 
 <br/><img src='/images/AlcoholInflammation.jpg'>
-
-
 **Fig. 4** Aging amplifies transposable element–associated inflammatory myeloid bias in HSCs under chronic alcohol exposure
 
 
 For this work, I was awarded an independent and competitive [fellowship grant](https://www.mscrf.org/awardees) from Maryland Stem Cell Research Fund (MSCRF) to conduct epigenome profiling of alcohol-induced inflammation in HSCs. Furthermore, my work also extends to [neutrophil biology](https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00033-1), where I am currently involved in a collaboration with the lab of [Prof. Lutsenko](https://pages.jh.edu/lutsenkolab/) at Johns Hopkins University by providing my expertise on multiparameter spectral flow cytometry analysis of myeloid cells. 
+
+Having said all of those, my interest in biology had begun when I was in middle/high school where I got a priviledge to meet incredible teachers (Mr Syamsuddin and Mrs Agustina) whom taught me general biology as well as molecular and cell biology. From these countless efforts of my teachers, I paved the way into the experience of International Biology Olympiad (IBO) selection process, where I won a bronze medal at the National Selection level in "Olimpiade Sains Nasional" though I was not selected for repressenting Indonesia for the IBO 2009 in Tsukuba, Japan.
+
+<br/><img src='/images/OSN_bio.jpg'>
+**Fig. 5** My photo when I got bronze medal at the National Selection of IBO. 
 
 Overall, my expertise lies at the intersection of experimental hematology, immunology, and integrative genomics. I combine rigorous in vivo experimentation with independent bioinformatic analysis to generate mechanistic insight from complex biological systems.
 
