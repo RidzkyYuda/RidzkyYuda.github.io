@@ -21,8 +21,8 @@ Trained as a stem cell and immunobiologist, I have conducted biomedical research
 
 My scientific endeavour on the biology of stem cell and macrophage aging had started when I did my Ph.D. thesis in the laboratory of prominent HSC and macrophage biologist, [Prof. Michael Sieweke](https://tu-dresden.de/cmcb/crtd/forschungsgruppen/crtd-forschungsgruppen/sieweke), at Technische Universität Dresden, Germany (**Fig. 2**). 
 
-<br/><img src='/images/PhDdefense.jpg'>
-**Fig. 2** Photograph with my incredible and inspiring mentor, Prof. Michael Sieweke, after my succesful thesis defense and rigorosum
+
+**Fig. 2** 
 
 In Sieweke Lab, I was involved in a collaborative [research](https://www.nature.com/articles/s41590-022-01146-w) involving French and German research institutions (Centre d’Immunologie de Marseille-Luminy, Center for Regenerative Therapies Dresden, and the Max Delbrück Center for Molecular Medicine in Berlin) demonstrating that alveolar macrophages—a lung-resident macrophage population—can undergo extensive self-renewal in vitro while maintaining their core cellular identity (**Fig. 3**). We further established [methods](https://link.springer.com/protocol/10.1007/978-1-0716-3437-0_16) to genetically engineer these cells using lentiviral vectors, expanding their utility for mechanistic and translational studies (**Fig. 3**).
 
@@ -38,12 +38,6 @@ In my current postdoctoral project at Johns Hopkins University School of Medicin
 
 For this work, I was awarded an independent and competitive [fellowship grant](https://www.mscrf.org/awardees) from Maryland Stem Cell Research Fund (MSCRF) to conduct epigenome profiling of alcohol-induced inflammation in HSCs. Furthermore, my work also extends to [neutrophil biology](https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00033-1), where I am currently involved in a collaboration with the lab of [Prof. Lutsenko](https://pages.jh.edu/lutsenkolab/) at Johns Hopkins University by providing my expertise on multiparameter spectral flow cytometry analysis of myeloid cells. 
 
-My interest in biology began in middle school, where I was fortunate to learn from inspiring teachers, Mr. Syamsuddin and Mrs. Agustina. Their enthusiasm for teaching—especially in molecular and cell biology—left a lasting impression on me and sparked my curiosity about how life works at the most fundamental level. Encouraged by their support, I pursued the International Biology Olympiad (IBO) selection pathway and was awarded a bronze medal at the national level in the Olimpiade Sains Nasional (**Fig. 5**). Although I was not selected to represent Indonesia at the IBO 2009 in Tsukuba, Japan, the experience was formative. It deepened my curiosity and strengthened my resolve to continue exploring molecular and cell biology, a path I have remained committed to ever since.
-
----
-<br/><img src='/images/OSN_bio.jpg'>
----
-**Fig. 5** My photo when I won a bronze medal at the National Selection of IBO 
 
 Overall, my expertise lies at the intersection of experimental hematology, immunology, and integrative genomics. I combine rigorous in vivo experimentation with independent bioinformatic analysis to generate mechanistic insight from complex biological systems.
 
