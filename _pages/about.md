@@ -28,7 +28,12 @@ For this work, I was awarded an independent and competitive [fellowship grant](h
 <br/><img src='/images/CellReport-graphical-abstract.jpg'>
 **Fig. 4** Neutrophil maturation depends on ATP7B-regulated copper homeostasis [Som Dev et al., **Cell Reports**., 2026](https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00123-4)
 
-Furthermore, my work also extends to [neutrophil biology](https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00033-1) (**Fig. 4**), where I am currently involved in an ongoing collaboration with the lab of [Prof. Lutsenko](https://pages.jh.edu/lutsenkolab/) at Johns Hopkins University by providing my expertise on multiparameter spectral flow cytometry analysis of myeloid cells and stem cell isolation. 
+Furthermore, my work also extends to [neutrophil biology](https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00033-1) (**Fig. 4**), where I am currently involved in an ongoing collaboration with the lab of [Prof. Lutsenko](https://pages.jh.edu/lutsenkolab/) at Johns Hopkins University by providing my expertise on multiparameter spectral flow cytometry and stem cell isolation. 
+
+In the meantime, I also developped a newly built R package **degTools** (available in GitHub)[https://github.com/RidzkyYuda/degTools]. This package provides a streamlined wrapper to perform automated differential gene and transposable element expression analyses across cell clusters and data batches/cohorts within a scRNA-seq Seurat object, leveraging Seurat’s *FindMarkers* function. The package is currently in beta but is available for download and can be readily integrated into analysis workflows.
+
+If you want it to sound more technically assertive (e.g., for a methods section or CV), I can push it further.
+ 
 
 Overall, my expertise lies at the intersection of experimental hematology, immunology, and integrative genomics. I combine rigorous in vivo experimentation with independent bioinformatic analysis to generate mechanistic insight from complex biological systems.
 
