@@ -24,11 +24,10 @@ In my current postdoctoral project at Johns Hopkins University School of Medicin
 **Fig. 3** We found aging amplifies transposable element–associated inflammatory myeloid bias in HSCs under chronic alcohol exposure [Yuda et al., bioRXIV., 2025](https://www.biorxiv.org/content/10.64898/2025.12.25.696246v1.full)
 
 For this work, I was awarded an independent and competitive [fellowship grant](https://www.mscrf.org/awardees) from the Maryland Stem Cell Research Fund (MSCRF) to lead genome-wide epigenomic analysis aimed at defining the mechanisms underlying alcohol-induced inflammation in HSCs. I served as a **Principal Investigator (PI)**, with full responsibility for conceptualization, study design, and execution.
+Furthermore, my work also extends to [neutrophil biology](https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00033-1) (**Fig. 4**), where I am currently involved in an ongoing collaboration with the lab of [Prof. Lutsenko](https://pages.jh.edu/lutsenkolab/) at Johns Hopkins University by providing my expertise on multiparameter spectral flow cytometry and stem cell isolation. 
 
 <br/><img src='/images/CellReport-graphical-abstract.jpg'>
 **Fig. 4** Neutrophil maturation depends on ATP7B-regulated copper homeostasis [Som Dev et al., **Cell Reports**., 2026](https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00123-4)
-
-Furthermore, my work also extends to [neutrophil biology](https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00033-1) (**Fig. 4**), where I am currently involved in an ongoing collaboration with the lab of [Prof. Lutsenko](https://pages.jh.edu/lutsenkolab/) at Johns Hopkins University by providing my expertise on multiparameter spectral flow cytometry and stem cell isolation. 
 
 In the meantime, I also developped a newly built R package **degTools** (available in GitHub)[https://github.com/RidzkyYuda/degTools]. This package provides a streamlined wrapper to perform automated differential gene and transposable element expression analyses across cell clusters and data batches/cohorts within a scRNA-seq Seurat object, leveraging Seurat’s *FindMarkers* function. The package is currently in beta but is available for download and can be readily integrated into analysis workflows.
 
