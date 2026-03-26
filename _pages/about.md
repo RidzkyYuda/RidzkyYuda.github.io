@@ -25,7 +25,7 @@ In my current postdoctoral project at Johns Hopkins University School of Medicin
 
 For this work, I was awarded an independent and competitive [fellowship grant](https://www.mscrf.org/awardees) from the Maryland Stem Cell Research Fund (MSCRF) to lead genome-wide epigenomic analysis aimed at defining the mechanisms underlying alcohol-induced inflammation in HSCs. I served as a **Principal Investigator (PI)**, with full responsibility for conceptualization, study design, and execution.
 
-<br/><img src='/images/CellRepFront3.png'>
+<br/><img src='/images/CellReport-graphical-abstract.jpg'>
 **Fig. 4** Neutrophil maturation depends on ATP7B-regulated copper homeostasis [Som Dev et al., **Cell Reports**., 2026](https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00123-4)
 
 Furthermore, my work also extends to [neutrophil biology](https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00033-1) (**Fig. 4**), where I am currently involved in an ongoing collaboration with the lab of [Prof. Lutsenko](https://pages.jh.edu/lutsenkolab/) at Johns Hopkins University by providing my expertise on multiparameter spectral flow cytometry analysis of myeloid cells and stem cell isolation. 
