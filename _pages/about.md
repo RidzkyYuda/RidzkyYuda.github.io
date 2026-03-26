@@ -32,9 +32,6 @@ Furthermore, my work also extends to [neutrophil biology](https://www.cell.com/c
 
 In the meantime, I also developped a newly built R package **degTools** (available in GitHub)[https://github.com/RidzkyYuda/degTools]. This package provides a streamlined wrapper to perform automated differential gene and transposable element expression analyses across cell clusters and data batches/cohorts within a scRNA-seq Seurat object, leveraging Seurat’s *FindMarkers* function. The package is currently in beta but is available for download and can be readily integrated into analysis workflows.
 
-If you want it to sound more technically assertive (e.g., for a methods section or CV), I can push it further.
- 
-
 Overall, my expertise lies at the intersection of experimental hematology, immunology, and integrative genomics. I combine rigorous in vivo experimentation with independent bioinformatic analysis to generate mechanistic insight from complex biological systems.
 
 
