@@ -6,7 +6,7 @@ permalink: /posts/2026/05/Updated_Alcohol-TE_bioXRIV-Manuscript/
 ---
 
 ---
-"<br/><img src='/images/'>"
+<br/><img src='/images/AlcoholInflammation.jpg'>
 ---
 We just updated our bioRxiv preprint manuscript titled **“Chronic alcohol exposure drives inflammaging and transposon derepression in hematopoietic stem and progenitor cells” (Yuda et al., 2025)**. This revision updates the initial manuscript submitted to bioRxiv in December 2025. The revised manuscript contains several key updates, as follows:
 
