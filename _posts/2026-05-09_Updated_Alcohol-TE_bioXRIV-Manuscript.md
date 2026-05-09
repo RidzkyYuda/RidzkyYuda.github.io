@@ -23,7 +23,7 @@ We just updated our bioRxiv preprint manuscript titled **“Chronic alcohol expo
 Together, these updates strengthen the overall conclusion that chronic alcohol exposure induces transposable element upregulation in both mouse and human hematopoietic systems in an age-dependent manner, and position this study as a novel observation linking alcohol exposure, inflammaging, and TE derepression in HSPCs.
 
 
-The version 2 of themanuscript is in the following bioRXIV [(Yuda et al 2025)](https://www.biorxiv.org/content/10.64898/2025.12.25.696246v2)
+The version 2 of the manuscript can be found here [(Yuda et al 2025)](https://www.biorxiv.org/content/10.64898/2025.12.25.696246v2)
 
 ---
 
