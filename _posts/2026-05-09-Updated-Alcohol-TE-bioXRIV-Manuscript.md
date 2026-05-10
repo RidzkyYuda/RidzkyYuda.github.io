@@ -1,7 +1,7 @@
 ---
 title: 'Updated revision on "alcohol-aging-TE" manuscript in bioRXIV'
 date: 2026-05-09
-excerpt: "<br/><img src='/images/bioRXIV_V2'>"
+excerpt: "<br/><img src='/images/bioRXIV_V2.png'>"
 permalink: /posts/2026/05/Updated-Alcohol-TE-bioXRIV-Manuscript/
 ---
 
