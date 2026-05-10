@@ -25,6 +25,7 @@ Together, these updates strengthen the overall conclusion that chronic alcohol e
 
 The updated version 2 of Yuda et al (2025) manuscript can be found [here](https://www.biorxiv.org/content/10.64898/2025.12.25.696246v2)
 The original December 2025's version of the manuscript can be found [here](https://doi.org/10.64898/2025.12.25.696246)
+
 ---
 
 
