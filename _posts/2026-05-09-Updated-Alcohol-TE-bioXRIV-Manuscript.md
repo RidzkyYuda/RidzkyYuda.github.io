@@ -15,8 +15,8 @@ We just updated our bioRxiv preprint manuscript titled **“Chronic alcohol expo
 3. Re-analyzed the scRNA-seq data from human xenotransplanted HSPCs to incorporate differences between cohort 1 and cohort 2, presented in Figure 6.
 4. Added transposable element analysis from bulk RNA-seq data of in vitro cultured human CD34+ cells exposed to ethanol, presented in Figure 7.
 5. Added analysis of transposable elements in human HSCs and MPPs from cohorts 1 and 2, presented in Figure 7.
-6. Added GO analysis of total and TE-overlapping OCRs, presented in Figure 7 and Supplemental Figure 7.
-7. Added motif analysis of total and TE-overlapping OCRs, presented in Figure 7.
+6. Added GO (gene ontology) term analysis of total and TE-overlapping OCRs (open chromatin regions) found in scATAC-seq data, presented in Figure 7 and Supplemental Figure 7.
+7. Added motif analysis of total and TE-overlapping OCRs found in scATAC-seq data, presented in Figure 7.
 8. Added RT-qPCR data for IFNA1, IFNB1, and IFNG from alcohol-exposed human CD34+ cell cultures, presented in Figure 7.
 9. Refined the Discussion section to focus more strongly on transposable elements and inflammaging, and incorporated recent literature describing TE upregulation during stress hematopoiesis.
 
