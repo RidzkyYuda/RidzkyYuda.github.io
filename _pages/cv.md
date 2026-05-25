@@ -5,6 +5,7 @@ permalink: /cv/
 author_profile: true
 show_talks: false
 show_teaching: false
+published: false
 
 ---
 
